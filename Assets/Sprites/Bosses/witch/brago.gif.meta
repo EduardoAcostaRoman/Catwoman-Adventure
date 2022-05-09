@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: 60894fa0991b06a43b5a03ec855361f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5894837753542193755
+    second: ball1
+  - first:
+      213: -8657888584441519983
+    second: ball2
+  - first:
+      213: 527680394529618585
+    second: ball3
+  - first:
+      213: 1188368043909424239
+    second: ball4
+  - first:
+      213: 4692841231869125064
+    second: ball5
+  - first:
+      213: -3220877459626577982
+    second: ball6
+  - first:
+      213: -7419576836103614143
+    second: ball7
+  - first:
+      213: 5451535741178693548
+    second: ball8
+  - first:
+      213: -2032826743179107622
+    second: ball9
+  - first:
+      213: 6313335733065135148
+    second: superball1
+  - first:
+      213: -4264126756170287816
+    second: superball2
+  - first:
+      213: 1920410621047646102
+    second: superball3
+  - first:
+      213: -2234635622084748330
+    second: superball4
+  - first:
+      213: 317154375126149266
+    second: superball5
+  - first:
+      213: 6016539353177877619
+    second: superball6
+  - first:
+      213: -2518004632932641800
+    second: superball7
+  - first:
+      213: 4582629008657694726
+    second: blank
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ball1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 745
+        width: 21
+        height: 16
+      alignment: 9
+      pivot: {x: 0.6257879, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c33ebadbf18b14cb18dbb239a4e481
+      internalID: -5894837753542193755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 739
+        width: 36
+        height: 32
+      alignment: 9
+      pivot: {x: 0.56603706, y: 0.5030918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ebaf9e4aa6f734a995826052380089
+      internalID: -8657888584441519983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 730
+        width: 57
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5496216, y: 0.5218042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02558f8f36241d419b96b659ffb11ec
+      internalID: 527680394529618585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 732
+        width: 54
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5466266, y: 0.47819337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63222237a0f67f74a8d91d05e9c9d6c5
+      internalID: 1188368043909424239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 731
+        width: 54
+        height: 50
+      alignment: 9
+      pivot: {x: 0.522765, y: 0.48810425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc0dff9c806df5469f2fb7f5d6fdc46
+      internalID: 4692841231869125064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball6
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 730
+        width: 54
+        height: 54
+      alignment: 9
+      pivot: {x: 0.52643615, y: 0.49265656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897412bed34435c40a6ce4981385ac30
+      internalID: -3220877459626577982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball7
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 729
+        width: 55
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5566717, y: 0.5247791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009ccf4563a5fe9409ce8c1a38f4a2f1
+      internalID: -7419576836103614143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball8
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 732
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ee23a28322c1f45a34e75a8b48dfa4
+      internalID: 5451535741178693548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball9
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 733
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5c260af73d1fb47b888937d58674a8
+      internalID: -2032826743179107622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superball1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 14
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d201e7b90ed68408933e1209c83733
+      internalID: 6313335733065135148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superball2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 13
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29f13808b1013540a6c9e7626d1523e
+      internalID: -4264126756170287816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superball3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 15
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90afb17e010b6ec45956af300bd71a17
+      internalID: 1920410621047646102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superball4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 14
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6b67b180c73b04eb36625b846a3dac
+      internalID: -2234635622084748330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superball5
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 15
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0edb860437ce34b90c9d8e1bb9a2f3
+      internalID: 317154375126149266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superball6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 14
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6c5905db7191048836418cd84b5e5b
+      internalID: 6016539353177877619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: superball7
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 13
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d29cde5fcce2ed4bbb8a027d9cc88aa
+      internalID: -2518004632932641800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blank
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1372
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921423e06ca359340b4a37102e44ad20
+      internalID: 4582629008657694726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5650 @@
+fileFormatVersion: 2
+guid: 8411d48188ed3724baae4c5a78158e87
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: plant man_0
+  - first:
+      213: 21300002
+    second: plant man_1
+  - first:
+      213: 21300004
+    second: plant man_2
+  - first:
+      213: 21300006
+    second: plant man_3
+  - first:
+      213: 21300008
+    second: plant man_4
+  - first:
+      213: 21300010
+    second: plant man_5
+  - first:
+      213: 21300012
+    second: plant man_6
+  - first:
+      213: 21300014
+    second: plant man_7
+  - first:
+      213: 21300016
+    second: trans1
+  - first:
+      213: 21300018
+    second: trans2
+  - first:
+      213: 21300020
+    second: trans3
+  - first:
+      213: 21300022
+    second: trans4
+  - first:
+      213: 21300024
+    second: plant man_12
+  - first:
+      213: 21300026
+    second: plant man_13
+  - first:
+      213: 21300028
+    second: plant man_14
+  - first:
+      213: 21300030
+    second: plant man_15
+  - first:
+      213: 21300032
+    second: plant man_16
+  - first:
+      213: 21300034
+    second: plant man_17
+  - first:
+      213: 21300036
+    second: plantDeath3
+  - first:
+      213: 21300038
+    second: plantDeath4
+  - first:
+      213: 21300040
+    second: plantDeath5
+  - first:
+      213: 21300042
+    second: plantDeath6
+  - first:
+      213: 21300044
+    second: start7
+  - first:
+      213: 21300046
+    second: start8
+  - first:
+      213: 21300048
+    second: plant man_24
+  - first:
+      213: 21300050
+    second: plant man_25
+  - first:
+      213: 21300052
+    second: plant man_26
+  - first:
+      213: 21300054
+    second: plant man_27
+  - first:
+      213: 21300056
+    second: trans5
+  - first:
+      213: 21300058
+    second: plant man_29
+  - first:
+      213: 21300060
+    second: plant man_30
+  - first:
+      213: 21300062
+    second: plant man_31
+  - first:
+      213: 21300064
+    second: plant man_32
+  - first:
+      213: 21300066
+    second: plant man_33
+  - first:
+      213: 21300068
+    second: plant man_34
+  - first:
+      213: 21300070
+    second: plant man_35
+  - first:
+      213: 21300072
+    second: plant man_36
+  - first:
+      213: 21300074
+    second: plant man_37
+  - first:
+      213: 21300076
+    second: plant man_38
+  - first:
+      213: 21300078
+    second: plant man_39
+  - first:
+      213: 21300080
+    second: plant man_40
+  - first:
+      213: 21300082
+    second: plant man_41
+  - first:
+      213: 21300084
+    second: trans6
+  - first:
+      213: 21300086
+    second: trans7
+  - first:
+      213: 21300088
+    second: plant man_44
+  - first:
+      213: 21300090
+    second: plant man_45
+  - first:
+      213: 21300092
+    second: plant man_46
+  - first:
+      213: 21300094
+    second: plant man_47
+  - first:
+      213: 21300096
+    second: plant man_48
+  - first:
+      213: 21300098
+    second: plant man_49
+  - first:
+      213: 21300100
+    second: plant man_50
+  - first:
+      213: 21300102
+    second: trans8
+  - first:
+      213: 21300104
+    second: trans9
+  - first:
+      213: 21300106
+    second: plant man_53
+  - first:
+      213: 21300108
+    second: plant man_54
+  - first:
+      213: 21300110
+    second: plant man_55
+  - first:
+      213: 21300112
+    second: plant man_56
+  - first:
+      213: 21300114
+    second: plant man_57
+  - first:
+      213: 21300116
+    second: plant man_58
+  - first:
+      213: 21300118
+    second: plant man_59
+  - first:
+      213: 21300120
+    second: plant man_60
+  - first:
+      213: 21300122
+    second: plant man_61
+  - first:
+      213: 21300124
+    second: plant man_62
+  - first:
+      213: 21300126
+    second: plant man_63
+  - first:
+      213: 21300128
+    second: plant man_64
+  - first:
+      213: 21300130
+    second: plant man_65
+  - first:
+      213: 21300132
+    second: plant man_66
+  - first:
+      213: 21300134
+    second: plant man_67
+  - first:
+      213: 21300136
+    second: plant man_68
+  - first:
+      213: 21300138
+    second: plant man_69
+  - first:
+      213: 21300140
+    second: plant man_70
+  - first:
+      213: 21300142
+    second: plant man_71
+  - first:
+      213: 21300144
+    second: plant man_72
+  - first:
+      213: 21300146
+    second: plant man_73
+  - first:
+      213: 21300148
+    second: plant man_74
+  - first:
+      213: 21300150
+    second: plant man_75
+  - first:
+      213: 21300152
+    second: plant man_76
+  - first:
+      213: 21300154
+    second: plant man_77
+  - first:
+      213: 21300156
+    second: plant man_78
+  - first:
+      213: 21300158
+    second: plant man_79
+  - first:
+      213: 21300160
+    second: plant man_80
+  - first:
+      213: 21300162
+    second: plant man_81
+  - first:
+      213: 21300164
+    second: plant man_82
+  - first:
+      213: 21300166
+    second: plant man_83
+  - first:
+      213: 21300168
+    second: plant man_84
+  - first:
+      213: 21300170
+    second: plant man_85
+  - first:
+      213: 21300172
+    second: plant man_86
+  - first:
+      213: 21300174
+    second: plant man_87
+  - first:
+      213: 21300176
+    second: plant man_88
+  - first:
+      213: 21300178
+    second: plant man_89
+  - first:
+      213: 21300180
+    second: plant man_90
+  - first:
+      213: 21300182
+    second: plant man_91
+  - first:
+      213: 21300184
+    second: plant man_92
+  - first:
+      213: 21300186
+    second: plant man_93
+  - first:
+      213: 21300188
+    second: plant man_94
+  - first:
+      213: 21300190
+    second: plant man_95
+  - first:
+      213: 21300192
+    second: plant man_96
+  - first:
+      213: 21300194
+    second: plant man_97
+  - first:
+      213: 21300196
+    second: plant man_98
+  - first:
+      213: 21300198
+    second: plant man_99
+  - first:
+      213: 21300200
+    second: plant man_100
+  - first:
+      213: 21300202
+    second: plant man_101
+  - first:
+      213: 21300204
+    second: plant man_102
+  - first:
+      213: 21300206
+    second: plant man_103
+  - first:
+      213: 21300208
+    second: plant man_104
+  - first:
+      213: 21300210
+    second: plant man_105
+  - first:
+      213: 21300212
+    second: plant man_106
+  - first:
+      213: 21300214
+    second: plant man_107
+  - first:
+      213: 21300216
+    second: plant man_108
+  - first:
+      213: 21300218
+    second: plant man_109
+  - first:
+      213: 21300220
+    second: plant man_110
+  - first:
+      213: 21300222
+    second: plant man_111
+  - first:
+      213: 21300224
+    second: plant man_112
+  - first:
+      213: 21300226
+    second: plant man_113
+  - first:
+      213: 21300228
+    second: plant man_114
+  - first:
+      213: 21300230
+    second: plant man_115
+  - first:
+      213: 21300232
+    second: plant man_116
+  - first:
+      213: 21300234
+    second: plant man_117
+  - first:
+      213: 21300236
+    second: plant man_118
+  - first:
+      213: 21300238
+    second: plant man_119
+  - first:
+      213: 21300240
+    second: plant man_120
+  - first:
+      213: 21300242
+    second: plant man_121
+  - first:
+      213: 21300244
+    second: plant man_122
+  - first:
+      213: 21300246
+    second: plant man_123
+  - first:
+      213: 21300248
+    second: plant man_124
+  - first:
+      213: 21300250
+    second: plant man_125
+  - first:
+      213: 21300252
+    second: plant man_126
+  - first:
+      213: 21300254
+    second: plant man_127
+  - first:
+      213: 21300256
+    second: plant man_128
+  - first:
+      213: 21300258
+    second: plant man_129
+  - first:
+      213: 21300260
+    second: plant man_130
+  - first:
+      213: 21300262
+    second: plant man_131
+  - first:
+      213: 21300264
+    second: plant man_132
+  - first:
+      213: 21300266
+    second: plant man_133
+  - first:
+      213: 21300268
+    second: plant man_134
+  - first:
+      213: 21300270
+    second: plant man_135
+  - first:
+      213: 21300272
+    second: plant man_136
+  - first:
+      213: 21300274
+    second: plant man_137
+  - first:
+      213: 21300276
+    second: groundSummon
+  - first:
+      213: 21300278
+    second: plant man_139
+  - first:
+      213: 21300280
+    second: plant man_140
+  - first:
+      213: 21300282
+    second: plant man_141
+  - first:
+      213: 21300284
+    second: plant man_142
+  - first:
+      213: 21300286
+    second: plant man_143
+  - first:
+      213: 21300288
+    second: plant man_144
+  - first:
+      213: 21300290
+    second: plant man_145
+  - first:
+      213: 21300292
+    second: plant man_146
+  - first:
+      213: 21300294
+    second: plant man_147
+  - first:
+      213: 21300296
+    second: plant man_148
+  - first:
+      213: 21300298
+    second: plant man_149
+  - first:
+      213: 21300300
+    second: plant man_150
+  - first:
+      213: 21300302
+    second: plant man_151
+  - first:
+      213: 21300304
+    second: plant man_152
+  - first:
+      213: 21300306
+    second: plant man_153
+  - first:
+      213: 21300308
+    second: plant man_154
+  - first:
+      213: 21300310
+    second: plant man_155
+  - first:
+      213: 21300312
+    second: plant man_156
+  - first:
+      213: 21300314
+    second: plant man_157
+  - first:
+      213: 21300316
+    second: plant man_158
+  - first:
+      213: 21300318
+    second: plant man_159
+  - first:
+      213: 21300320
+    second: plant man_160
+  - first:
+      213: 21300322
+    second: plant man_161
+  - first:
+      213: 21300324
+    second: plant man_162
+  - first:
+      213: 21300326
+    second: plant man_163
+  - first:
+      213: 21300328
+    second: plant man_164
+  - first:
+      213: 21300330
+    second: plant man_165
+  - first:
+      213: 21300332
+    second: plant man_166
+  - first:
+      213: 21300334
+    second: plant man_167
+  - first:
+      213: 21300336
+    second: plant man_168
+  - first:
+      213: 21300338
+    second: plant man_169
+  - first:
+      213: 21300340
+    second: plant man_170
+  - first:
+      213: 21300342
+    second: plant man_171
+  - first:
+      213: 21300344
+    second: plant man_172
+  - first:
+      213: 21300346
+    second: plant man_173
+  - first:
+      213: 21300348
+    second: plant man_174
+  - first:
+      213: 21300350
+    second: plant man_175
+  - first:
+      213: 21300352
+    second: plant man_176
+  - first:
+      213: 21300354
+    second: plant man_177
+  - first:
+      213: 21300356
+    second: plant man_178
+  - first:
+      213: 21300358
+    second: plant man_179
+  - first:
+      213: 21300360
+    second: plant man_180
+  - first:
+      213: 21300362
+    second: plant man_181
+  - first:
+      213: 21300364
+    second: plant man_182
+  - first:
+      213: 21300366
+    second: plant man_183
+  - first:
+      213: 21300368
+    second: plant man_184
+  - first:
+      213: 21300370
+    second: plant man_185
+  - first:
+      213: 21300372
+    second: plant man_186
+  - first:
+      213: 21300374
+    second: plant man_187
+  - first:
+      213: 21300376
+    second: plant man_188
+  - first:
+      213: 21300378
+    second: plant man_189
+  - first:
+      213: 21300380
+    second: plant man_190
+  - first:
+      213: 21300382
+    second: plant man_191
+  - first:
+      213: 21300384
+    second: plant man_192
+  - first:
+      213: 21300386
+    second: plant man_193
+  - first:
+      213: 21300388
+    second: plant man_194
+  - first:
+      213: 21300390
+    second: plant man_195
+  - first:
+      213: 21300392
+    second: plant man_196
+  - first:
+      213: 21300394
+    second: plant man_197
+  - first:
+      213: 21300396
+    second: plant man_198
+  - first:
+      213: 21300398
+    second: plant man_199
+  - first:
+      213: 21300400
+    second: plant man_200
+  - first:
+      213: 21300402
+    second: plant man_201
+  - first:
+      213: 21300404
+    second: plant man_202
+  - first:
+      213: 21300406
+    second: plant man_203
+  - first:
+      213: 21300408
+    second: plant man_204
+  - first:
+      213: 21300410
+    second: plant man_205
+  - first:
+      213: 21300412
+    second: plant man_206
+  - first:
+      213: 21300414
+    second: plant man_207
+  - first:
+      213: 21300416
+    second: plant man_208
+  - first:
+      213: 21300418
+    second: plant man_209
+  - first:
+      213: 21300420
+    second: plant man_210
+  - first:
+      213: 21300422
+    second: plant man_211
+  - first:
+      213: 21300424
+    second: plant man_212
+  - first:
+      213: 21300426
+    second: plant man_213
+  - first:
+      213: 21300428
+    second: plant man_214
+  - first:
+      213: 21300430
+    second: plant man_215
+  - first:
+      213: 21300432
+    second: plant man_216
+  - first:
+      213: 21300434
+    second: plant man_217
+  - first:
+      213: 21300436
+    second: plant man_218
+  - first:
+      213: 21300438
+    second: plant man_219
+  - first:
+      213: 21300440
+    second: plant man_220
+  - first:
+      213: 21300442
+    second: plant man_221
+  - first:
+      213: 21300444
+    second: plant man_222
+  - first:
+      213: 21300446
+    second: plant man_223
+  - first:
+      213: 21300448
+    second: plant man_224
+  - first:
+      213: 21300450
+    second: plant man_225
+  - first:
+      213: 21300452
+    second: plant man_226
+  - first:
+      213: 21300454
+    second: plant man_227
+  - first:
+      213: 21300456
+    second: plant man_228
+  - first:
+      213: 21300458
+    second: plant man_229
+  - first:
+      213: 21300460
+    second: plant man_230
+  - first:
+      213: 21300462
+    second: plant man_231
+  - first:
+      213: 21300464
+    second: plant man_232
+  - first:
+      213: 21300466
+    second: plant man_233
+  - first:
+      213: 21300468
+    second: plant man_234
+  - first:
+      213: 21300470
+    second: plant man_235
+  - first:
+      213: 21300472
+    second: plant man_236
+  - first:
+      213: 21300474
+    second: plant man_237
+  - first:
+      213: 21300476
+    second: plant man_238
+  - first:
+      213: 21300478
+    second: plant man_239
+  - first:
+      213: 21300480
+    second: plant man_240
+  - first:
+      213: 21300482
+    second: plant man_241
+  - first:
+      213: 21300484
+    second: plant man_242
+  - first:
+      213: 21300486
+    second: plant man_243
+  - first:
+      213: 21300488
+    second: plant man_244
+  - first:
+      213: 21300490
+    second: plant man_245
+  - first:
+      213: 21300492
+    second: plant man_246
+  - first:
+      213: 21300494
+    second: plant man_247
+  - first:
+      213: 21300496
+    second: plant man_248
+  - first:
+      213: 21300498
+    second: plant man_249
+  - first:
+      213: 21300500
+    second: plant man_250
+  - first:
+      213: 21300502
+    second: projectile
+  - first:
+      213: 21300504
+    second: plant man_252
+  - first:
+      213: 21300506
+    second: plant man_253
+  - first:
+      213: 21300508
+    second: plant man_254
+  - first:
+      213: 21300510
+    second: plant man_255
+  - first:
+      213: 21300512
+    second: plant man_256
+  - first:
+      213: 21300514
+    second: plant man_257
+  - first:
+      213: 21300516
+    second: plant man_258
+  - first:
+      213: 21300518
+    second: plant man_259
+  - first:
+      213: 21300520
+    second: plant man_260
+  - first:
+      213: 21300522
+    second: plant man_261
+  - first:
+      213: 21300524
+    second: plant man_262
+  - first:
+      213: 21300526
+    second: plant man_263
+  - first:
+      213: 21300528
+    second: plant man_264
+  - first:
+      213: 21300530
+    second: plant man_265
+  - first:
+      213: 21300532
+    second: plant man_266
+  - first:
+      213: 21300534
+    second: plant man_267
+  - first:
+      213: 21300536
+    second: plant man_268
+  - first:
+      213: 21300538
+    second: plant man_269
+  - first:
+      213: 21300540
+    second: plant man_270
+  - first:
+      213: 21300542
+    second: plant man_271
+  - first:
+      213: 21300544
+    second: plant man_272
+  - first:
+      213: 21300546
+    second: plant man_273
+  - first:
+      213: 21300548
+    second: plant man_274
+  - first:
+      213: 21300550
+    second: plant man_275
+  - first:
+      213: 21300552
+    second: plant man_276
+  - first:
+      213: 21300554
+    second: plant man_277
+  - first:
+      213: 21300556
+    second: plant man_278
+  - first:
+      213: 21300558
+    second: plant man_279
+  - first:
+      213: 21300560
+    second: plant man_280
+  - first:
+      213: 21300562
+    second: plant man_281
+  - first:
+      213: 21300564
+    second: plant man_282
+  - first:
+      213: 21300566
+    second: plant man_283
+  - first:
+      213: 21300568
+    second: plant man_284
+  - first:
+      213: 21300570
+    second: plant man_285
+  - first:
+      213: 21300572
+    second: plant man_286
+  - first:
+      213: 21300574
+    second: plant man_287
+  - first:
+      213: 21300576
+    second: plant man_288
+  - first:
+      213: 21300578
+    second: plant man_289
+  - first:
+      213: 21300580
+    second: plant man_290
+  - first:
+      213: 21300582
+    second: plant man_291
+  - first:
+      213: 21300584
+    second: plant man_292
+  - first:
+      213: 21300586
+    second: plant man_293
+  - first:
+      213: 21300588
+    second: plant man_294
+  - first:
+      213: 21300590
+    second: plant man_295
+  - first:
+      213: 21300592
+    second: plant man_296
+  - first:
+      213: 21300594
+    second: plant man_297
+  - first:
+      213: 21300596
+    second: plant man_298
+  - first:
+      213: 21300598
+    second: plant man_299
+  - first:
+      213: 21300600
+    second: plant man_300
+  - first:
+      213: 21300602
+    second: plant man_301
+  - first:
+      213: 21300604
+    second: plant man_302
+  - first:
+      213: 21300606
+    second: plant man_303
+  - first:
+      213: 21300608
+    second: plant man_304
+  - first:
+      213: 21300610
+    second: plant man_305
+  - first:
+      213: 21300612
+    second: plant man_306
+  - first:
+      213: 21300614
+    second: plant man_307
+  - first:
+      213: 21300616
+    second: plant man_308
+  - first:
+      213: 21300618
+    second: plant man_309
+  - first:
+      213: 21300620
+    second: plant man_310
+  - first:
+      213: 21300622
+    second: plant man_311
+  - first:
+      213: 21300624
+    second: plant man_312
+  - first:
+      213: 21300626
+    second: plant man_313
+  - first:
+      213: 21300628
+    second: plant man_314
+  - first:
+      213: 21300630
+    second: plant man_315
+  - first:
+      213: 21300632
+    second: plant man_316
+  - first:
+      213: 21300634
+    second: plant man_317
+  - first:
+      213: 21300636
+    second: plant man_318
+  - first:
+      213: 21300638
+    second: plant man_319
+  - first:
+      213: 21300640
+    second: plant man_320
+  - first:
+      213: 21300642
+    second: plant man_321
+  - first:
+      213: 21300644
+    second: plant man_322
+  - first:
+      213: 21300646
+    second: plant man_323
+  - first:
+      213: 21300648
+    second: plant man_324
+  - first:
+      213: 21300650
+    second: plant man_325
+  - first:
+      213: 21300652
+    second: plant man_326
+  - first:
+      213: 21300654
+    second: plant man_327
+  - first:
+      213: 21300656
+    second: plant man_328
+  - first:
+      213: 21300658
+    second: plant man_329
+  - first:
+      213: 21300660
+    second: plant man_330
+  - first:
+      213: 21300662
+    second: plant man_331
+  - first:
+      213: 21300664
+    second: plant man_332
+  - first:
+      213: 21300666
+    second: plant man_333
+  - first:
+      213: 21300668
+    second: plant man_334
+  - first:
+      213: 21300670
+    second: plant man_335
+  - first:
+      213: 21300672
+    second: plant man_336
+  - first:
+      213: 21300674
+    second: plant man_337
+  - first:
+      213: 21300676
+    second: plant man_338
+  - first:
+      213: 21300678
+    second: plant man_339
+  - first:
+      213: 21300680
+    second: plant man_340
+  - first:
+      213: 21300682
+    second: plant man_341
+  - first:
+      213: 21300684
+    second: plant man_342
+  - first:
+      213: 21300686
+    second: plant man_343
+  - first:
+      213: 21300688
+    second: plant man_344
+  - first:
+      213: 21300690
+    second: plant man_345
+  - first:
+      213: 21300692
+    second: plant man_346
+  - first:
+      213: 21300694
+    second: plant man_347
+  - first:
+      213: 21300696
+    second: plant man_348
+  - first:
+      213: 21300698
+    second: plant man_349
+  - first:
+      213: 21300700
+    second: plant man_350
+  - first:
+      213: 21300702
+    second: plant man_351
+  - first:
+      213: 21300704
+    second: plant man_352
+  - first:
+      213: 21300706
+    second: plant man_353
+  - first:
+      213: 21300708
+    second: plant man_354
+  - first:
+      213: 21300710
+    second: plant man_355
+  - first:
+      213: 21300712
+    second: plant man_356
+  - first:
+      213: 21300714
+    second: plant man_357
+  - first:
+      213: 21300716
+    second: plant man_358
+  - first:
+      213: 21300718
+    second: plant man_359
+  - first:
+      213: 21300720
+    second: plant man_360
+  - first:
+      213: 21300722
+    second: plant man_361
+  - first:
+      213: 21300724
+    second: plant man_362
+  - first:
+      213: 21300726
+    second: plant man_363
+  - first:
+      213: 21300728
+    second: plant man_364
+  - first:
+      213: 21300730
+    second: plant man_365
+  - first:
+      213: 21300732
+    second: plant man_366
+  - first:
+      213: 21300734
+    second: plant man_367
+  - first:
+      213: 21300736
+    second: plant man_368
+  - first:
+      213: 21300738
+    second: plant man_369
+  - first:
+      213: 21300740
+    second: plant man_370
+  - first:
+      213: 21300742
+    second: plant man_371
+  - first:
+      213: 21300744
+    second: plant man_372
+  - first:
+      213: 21300746
+    second: plant man_373
+  - first:
+      213: 21300748
+    second: plant man_374
+  - first:
+      213: 21300750
+    second: plant man_375
+  - first:
+      213: 21300752
+    second: plant man_376
+  - first:
+      213: 21300754
+    second: plant man_377
+  - first:
+      213: 21300756
+    second: plant man_378
+  - first:
+      213: 21300758
+    second: plant man_379
+  - first:
+      213: 21300760
+    second: plant man_380
+  - first:
+      213: 21300762
+    second: plant man_381
+  - first:
+      213: 21300764
+    second: plant man_382
+  - first:
+      213: 21300766
+    second: plant man_383
+  - first:
+      213: 21300768
+    second: plant man_384
+  - first:
+      213: 21300770
+    second: plant man_385
+  - first:
+      213: 21300772
+    second: plant man_386
+  - first:
+      213: 21300774
+    second: plant man_387
+  - first:
+      213: 21300776
+    second: plant man_388
+  - first:
+      213: 21300778
+    second: plant man_389
+  - first:
+      213: 21300780
+    second: plant man_390
+  - first:
+      213: 21300782
+    second: plant man_391
+  - first:
+      213: 21300784
+    second: plant man_392
+  - first:
+      213: 21300786
+    second: plant man_393
+  - first:
+      213: 21300788
+    second: plant man_394
+  - first:
+      213: 21300790
+    second: plant man_395
+  - first:
+      213: 21300792
+    second: plant man_396
+  - first:
+      213: 21300794
+    second: plant man_397
+  - first:
+      213: 21300796
+    second: plant man_398
+  - first:
+      213: 21300798
+    second: plant man_399
+  - first:
+      213: 21300800
+    second: plant man_400
+  - first:
+      213: 21300802
+    second: plant man_401
+  - first:
+      213: 21300804
+    second: plant man_402
+  - first:
+      213: 21300806
+    second: plant man_403
+  - first:
+      213: 21300808
+    second: plant man_404
+  - first:
+      213: 21300810
+    second: plant man_405
+  - first:
+      213: 21300812
+    second: plant man_406
+  - first:
+      213: 21300814
+    second: plant man_407
+  - first:
+      213: 21300816
+    second: plant man_408
+  - first:
+      213: 21300818
+    second: plant man_409
+  - first:
+      213: 21300820
+    second: plant man_410
+  - first:
+      213: 21300822
+    second: plant man_411
+  - first:
+      213: 21300824
+    second: plant man_412
+  - first:
+      213: 21300826
+    second: plant man_413
+  - first:
+      213: 21300828
+    second: plant man_414
+  - first:
+      213: 21300830
+    second: plant man_415
+  - first:
+      213: 21300832
+    second: plant man_416
+  - first:
+      213: 21300834
+    second: plant man_417
+  - first:
+      213: 21300836
+    second: plant man_418
+  - first:
+      213: 21300838
+    second: plant man_419
+  - first:
+      213: 21300840
+    second: plant man_420
+  - first:
+      213: 21300842
+    second: plant man_421
+  - first:
+      213: 21300844
+    second: plant man_422
+  - first:
+      213: 21300846
+    second: plant man_423
+  - first:
+      213: 21300848
+    second: plant man_424
+  - first:
+      213: 21300850
+    second: plant man_425
+  - first:
+      213: 21300852
+    second: plant man_426
+  - first:
+      213: 21300854
+    second: plant man_427
+  - first:
+      213: 21300856
+    second: plant man_428
+  - first:
+      213: 21300858
+    second: plant man_429
+  - first:
+      213: 21300860
+    second: plant man_430
+  - first:
+      213: 21300862
+    second: plant man_431
+  - first:
+      213: 21300864
+    second: plant man_432
+  - first:
+      213: 21300866
+    second: plant man_433
+  - first:
+      213: 21300868
+    second: plant man_434
+  - first:
+      213: 21300870
+    second: plant man_435
+  - first:
+      213: 21300872
+    second: plant man_436
+  - first:
+      213: 21300874
+    second: plant man_437
+  - first:
+      213: 21300876
+    second: plant man_438
+  - first:
+      213: 21300878
+    second: plant man_439
+  - first:
+      213: 21300880
+    second: plant man_440
+  - first:
+      213: 21300882
+    second: plant man_441
+  - first:
+      213: 21300884
+    second: plant man_442
+  - first:
+      213: 21300886
+    second: plant man_443
+  - first:
+      213: 21300888
+    second: plant man_444
+  - first:
+      213: 21300890
+    second: plant man_445
+  - first:
+      213: 21300892
+    second: plant man_446
+  - first:
+      213: 21300894
+    second: plant man_447
+  - first:
+      213: 21300896
+    second: plant man_448
+  - first:
+      213: 21300898
+    second: plant man_449
+  - first:
+      213: 21300900
+    second: plant man_450
+  - first:
+      213: 21300902
+    second: plant man_451
+  - first:
+      213: 21300904
+    second: plant man_452
+  - first:
+      213: 21300906
+    second: plant man_453
+  - first:
+      213: 21300908
+    second: plant man_454
+  - first:
+      213: 21300910
+    second: plant man_455
+  - first:
+      213: 21300912
+    second: plant man_456
+  - first:
+      213: 21300914
+    second: plant man_457
+  - first:
+      213: 21300916
+    second: plant man_458
+  - first:
+      213: 21300918
+    second: plant man_459
+  - first:
+      213: 21300920
+    second: plant man_460
+  - first:
+      213: 21300922
+    second: plant man_461
+  - first:
+      213: 21300924
+    second: plant man_462
+  - first:
+      213: 21300926
+    second: plant man_463
+  - first:
+      213: 21300928
+    second: plant man_464
+  - first:
+      213: 21300930
+    second: plant man_465
+  - first:
+      213: 21300932
+    second: plant man_466
+  - first:
+      213: 21300934
+    second: plant man_467
+  - first:
+      213: 21300936
+    second: plant man_468
+  - first:
+      213: 21300938
+    second: plant man_469
+  - first:
+      213: 21300940
+    second: plant man_470
+  - first:
+      213: 21300942
+    second: plant man_471
+  - first:
+      213: 21300944
+    second: plant man_472
+  - first:
+      213: 21300946
+    second: plant man_473
+  - first:
+      213: 21300948
+    second: plant man_474
+  - first:
+      213: 21300950
+    second: plant man_475
+  - first:
+      213: 21300952
+    second: plant man_476
+  - first:
+      213: 21300954
+    second: plant man_477
+  - first:
+      213: 21300956
+    second: plant man_478
+  - first:
+      213: 21300958
+    second: plant man_479
+  - first:
+      213: 21300960
+    second: plant man_480
+  - first:
+      213: 21300962
+    second: plant man_481
+  - first:
+      213: 21300964
+    second: plant man_482
+  - first:
+      213: 21300966
+    second: plant man_483
+  - first:
+      213: 21300968
+    second: plant man_484
+  - first:
+      213: 21300970
+    second: plant man_485
+  - first:
+      213: 21300972
+    second: plant man_486
+  - first:
+      213: 21300974
+    second: plant man_487
+  - first:
+      213: 21300976
+    second: plant man_488
+  - first:
+      213: 21300978
+    second: plant man_489
+  - first:
+      213: 21300980
+    second: plant man_490
+  - first:
+      213: 21300982
+    second: plant man_491
+  - first:
+      213: 21300984
+    second: plant man_492
+  - first:
+      213: 21300986
+    second: plant man_493
+  - first:
+      213: 21300988
+    second: plant man_494
+  - first:
+      213: 21300990
+    second: plant man_495
+  - first:
+      213: 21300992
+    second: plant man_496
+  - first:
+      213: 21300994
+    second: plant man_497
+  - first:
+      213: 21300996
+    second: plant man_498
+  - first:
+      213: 21300998
+    second: plant man_499
+  - first:
+      213: 21301000
+    second: plant man_500
+  - first:
+      213: 21301002
+    second: plant man_501
+  - first:
+      213: 21301004
+    second: plant man_502
+  - first:
+      213: 21301006
+    second: plant man_503
+  - first:
+      213: 21301008
+    second: plant man_504
+  - first:
+      213: 21301010
+    second: plant man_505
+  - first:
+      213: 21301012
+    second: plant man_506
+  - first:
+      213: 21301014
+    second: plant man_507
+  - first:
+      213: 21301016
+    second: plantDeath7
+  - first:
+      213: 21301018
+    second: plantDeath8
+  - first:
+      213: 21301020
+    second: plant man_510
+  - first:
+      213: 21301022
+    second: plant man_511
+  - first:
+      213: 21301024
+    second: plant man_512
+  - first:
+      213: 21301026
+    second: plant man_513
+  - first:
+      213: 21301028
+    second: plant man_514
+  - first:
+      213: 21301030
+    second: plant man_515
+  - first:
+      213: 21301032
+    second: plant man_516
+  - first:
+      213: 21301034
+    second: plant man_517
+  - first:
+      213: 21301036
+    second: plant man_518
+  - first:
+      213: 21301038
+    second: plant man_519
+  - first:
+      213: 21301040
+    second: plant man_520
+  - first:
+      213: 21301042
+    second: plant man_521
+  - first:
+      213: 21301044
+    second: plant man_522
+  - first:
+      213: 21301046
+    second: plant man_523
+  - first:
+      213: 21301048
+    second: plant man_524
+  - first:
+      213: 21301050
+    second: plant man_525
+  - first:
+      213: 21301052
+    second: plant man_526
+  - first:
+      213: 21301054
+    second: plant man_527
+  - first:
+      213: 21301056
+    second: plant man_528
+  - first:
+      213: 21301058
+    second: plant man_529
+  - first:
+      213: 21301060
+    second: plant man_530
+  - first:
+      213: 21301062
+    second: plant man_531
+  - first:
+      213: 21301064
+    second: plant man_532
+  - first:
+      213: 21301066
+    second: plant man_533
+  - first:
+      213: 21301068
+    second: plant man_534
+  - first:
+      213: 21301070
+    second: plant man_535
+  - first:
+      213: 21301072
+    second: plant man_536
+  - first:
+      213: 21301074
+    second: plant man_537
+  - first:
+      213: 21301076
+    second: plant man_538
+  - first:
+      213: 21301078
+    second: plant man_539
+  - first:
+      213: 21301080
+    second: plant man_540
+  - first:
+      213: 21301082
+    second: plant man_541
+  - first:
+      213: 21301084
+    second: plant man_542
+  - first:
+      213: 21301086
+    second: plant man_543
+  - first:
+      213: 21301088
+    second: plant man_544
+  - first:
+      213: 21301090
+    second: plant man_545
+  - first:
+      213: 21301092
+    second: plant man_546
+  - first:
+      213: 21301094
+    second: plant man_547
+  - first:
+      213: 21301096
+    second: plant man_548
+  - first:
+      213: 21301098
+    second: plant man_8
+  - first:
+      213: 21301100
+    second: plant man_9
+  - first:
+      213: 21301102
+    second: plantDeath
+  - first:
+      213: 21301104
+    second: plantDeath2
+  - first:
+      213: 21301106
+    second: groundSummon2
+  - first:
+      213: 21301108
+    second: groundSummon3
+  - first:
+      213: 21301110
+    second: groundSummon4
+  - first:
+      213: 21301112
+    second: start
+  - first:
+      213: 21301114
+    second: start2
+  - first:
+      213: 21301116
+    second: start3
+  - first:
+      213: 21301118
+    second: start4
+  - first:
+      213: 21301120
+    second: start5
+  - first:
+      213: 21301122
+    second: start6
+  - first:
+      213: 21301124
+    second: start9
+  - first:
+      213: 21301126
+    second: start10
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plant man_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3894
+        width: 38
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 3894
+        width: 40
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 3894
+        width: 40
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 3894
+        width: 40
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_4
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 3894
+        width: 40
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_5
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 3894
+        width: 40
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_6
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 3894
+        width: 40
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_7
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 3894
+        width: 40
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3837
+        width: 29
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 3837
+        width: 42
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_14
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 3837
+        width: 47
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 3837
+        width: 28
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_16
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 3837
+        width: 42
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_17
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 3837
+        width: 47
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3709
+        width: 38
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_30
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3709
+        width: 41
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_31
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 3709
+        width: 38
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_32
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3709
+        width: 37
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_33
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 3709
+        width: 37
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_34
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 3709
+        width: 37
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_35
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 3709
+        width: 36
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_36
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 3709
+        width: 35
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_37
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 3709
+        width: 30
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_38
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 3709
+        width: 26
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_39
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 3709
+        width: 27
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_40
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 3709
+        width: 38
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_41
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 3709
+        width: 39
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3579
+        width: 35
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_45
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 3579
+        width: 40
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_46
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 3579
+        width: 53
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_47
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 3579
+        width: 45
+        height: 52
+      alignment: 9
+      pivot: {x: 0.39791837, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_48
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 3579
+        width: 58
+        height: 54
+      alignment: 9
+      pivot: {x: 0.38599816, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_49
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 3579
+        width: 39
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_50
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 3579
+        width: 59
+        height: 56
+      alignment: 9
+      pivot: {x: 0.6592562, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_61
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3501
+        width: 54
+        height: 56
+      alignment: 9
+      pivot: {x: 0.72256696, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3502
+        width: 51
+        height: 55
+      alignment: 9
+      pivot: {x: 0.7231457, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_63
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3501
+        width: 40
+        height: 52
+      alignment: 9
+      pivot: {x: 0.55849725, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_64
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 3501
+        width: 39
+        height: 53
+      alignment: 9
+      pivot: {x: 0.4945452, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_65
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 3501
+        width: 63
+        height: 53
+      alignment: 9
+      pivot: {x: 0.24676272, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_66
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 3501
+        width: 51
+        height: 74
+      alignment: 9
+      pivot: {x: 0.2309726, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_67
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 3501
+        width: 66
+        height: 69
+      alignment: 9
+      pivot: {x: 0.58379847, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3424
+        width: 71
+        height: 59
+      alignment: 9
+      pivot: {x: 0.74894434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_71
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 3424
+        width: 72
+        height: 58
+      alignment: 9
+      pivot: {x: 0.75921035, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_72
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 3424
+        width: 62
+        height: 50
+      alignment: 9
+      pivot: {x: 0.83124864, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_73
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 3424
+        width: 69
+        height: 56
+      alignment: 9
+      pivot: {x: 0.8546766, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_74
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 3424
+        width: 42
+        height: 74
+      alignment: 9
+      pivot: {x: 0.3423222, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_75
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 3424
+        width: 55
+        height: 61
+      alignment: 9
+      pivot: {x: 0.24548616, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_76
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 3424
+        width: 58
+        height: 54
+      alignment: 9
+      pivot: {x: 0.1838079, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_77
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 3425
+        width: 41
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_78
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 3424
+        width: 38
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_88
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3278
+        width: 40
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_89
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 3278
+        width: 40
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_90
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 3278
+        width: 40
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_91
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 3278
+        width: 40
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_92
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 3278
+        width: 40
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_93
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 3278
+        width: 71
+        height: 48
+      alignment: 9
+      pivot: {x: 0.23965324, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_94
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 3278
+        width: 110
+        height: 48
+      alignment: 9
+      pivot: {x: 0.15375976, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_95
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 3278
+        width: 110
+        height: 52
+      alignment: 9
+      pivot: {x: 0.1537595, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_96
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 3278
+        width: 110
+        height: 52
+      alignment: 9
+      pivot: {x: 0.15468307, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_97
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 3279
+        width: 110
+        height: 52
+      alignment: 9
+      pivot: {x: 0.15375976, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_98
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 3278
+        width: 110
+        height: 52
+      alignment: 9
+      pivot: {x: 0.15468307, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_99
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3222
+        width: 90
+        height: 52
+      alignment: 9
+      pivot: {x: 0.18853794, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_100
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 3221
+        width: 71
+        height: 52
+      alignment: 9
+      pivot: {x: 0.23965368, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_101
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 3221
+        width: 51
+        height: 52
+      alignment: 9
+      pivot: {x: 0.3347099, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_102
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 3221
+        width: 51
+        height: 52
+      alignment: 9
+      pivot: {x: 0.3347096, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_103
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 3221
+        width: 52
+        height: 49
+      alignment: 9
+      pivot: {x: 0.32616952, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_113
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3120
+        width: 40
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_114
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3120
+        width: 40
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_115
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 3120
+        width: 40
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_116
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 3120
+        width: 41
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_117
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3120
+        width: 34
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_118
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 3120
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_119
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 3120
+        width: 43
+        height: 39
+      alignment: 9
+      pivot: {x: 0.49716043, y: 0.025052585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_120
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 3120
+        width: 43
+        height: 39
+      alignment: 9
+      pivot: {x: 0.50094676, y: 0.024007162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundSummon
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 3021
+        width: 25
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43405410000000000800000000000000
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_149
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2874
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4405410000000000800000000000000
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_189
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 2651
+        width: 46
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9405410000000000800000000000000
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_226
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2297
+        width: 40
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e405410000000000800000000000000
+      internalID: 21300452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_227
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2297
+        width: 39
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e405410000000000800000000000000
+      internalID: 21300454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_228
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2297
+        width: 39
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e405410000000000800000000000000
+      internalID: 21300456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_229
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2297
+        width: 40
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae405410000000000800000000000000
+      internalID: 21300458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_230
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2297
+        width: 43
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce405410000000000800000000000000
+      internalID: 21300460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_231
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2297
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.34487247, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee405410000000000800000000000000
+      internalID: 21300462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_232
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2297
+        width: 62
+        height: 48
+      alignment: 9
+      pivot: {x: 0.35604316, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f405410000000000800000000000000
+      internalID: 21300464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_233
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2297
+        width: 73
+        height: 63
+      alignment: 9
+      pivot: {x: 0.27332965, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f405410000000000800000000000000
+      internalID: 21300466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_234
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 2297
+        width: 66
+        height: 63
+      alignment: 9
+      pivot: {x: 0.27360025, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f405410000000000800000000000000
+      internalID: 21300468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_235
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 2297
+        width: 46
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f405410000000000800000000000000
+      internalID: 21300470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_236
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2297
+        width: 48
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f405410000000000800000000000000
+      internalID: 21300472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_237
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 2297
+        width: 58
+        height: 84
+      alignment: 9
+      pivot: {x: 0.3270958, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af405410000000000800000000000000
+      internalID: 21300474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_238
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 2297
+        width: 73
+        height: 56
+      alignment: 9
+      pivot: {x: 0.24492154, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf405410000000000800000000000000
+      internalID: 21300476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_240
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2225
+        width: 64
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00505410000000000800000000000000
+      internalID: 21300480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_241
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2225
+        width: 64
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20505410000000000800000000000000
+      internalID: 21300482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_242
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2225
+        width: 64
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40505410000000000800000000000000
+      internalID: 21300484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_243
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2225
+        width: 64
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60505410000000000800000000000000
+      internalID: 21300486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_244
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2225
+        width: 64
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80505410000000000800000000000000
+      internalID: 21300488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_245
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2225
+        width: 64
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0505410000000000800000000000000
+      internalID: 21300490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_246
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2223
+        width: 63
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0505410000000000800000000000000
+      internalID: 21300492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_247
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 2225
+        width: 57
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0505410000000000800000000000000
+      internalID: 21300494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_248
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2225
+        width: 44
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01505410000000000800000000000000
+      internalID: 21300496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_249
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2225
+        width: 22
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21505410000000000800000000000000
+      internalID: 21300498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_250
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 2225
+        width: 11
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41505410000000000800000000000000
+      internalID: 21300500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectile
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 2225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61505410000000000800000000000000
+      internalID: 21300502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_313
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1625
+        width: 86
+        height: 117
+      alignment: 9
+      pivot: {x: 0.8076335, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29505410000000000800000000000000
+      internalID: 21300626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_314
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1625
+        width: 100
+        height: 104
+      alignment: 9
+      pivot: {x: 0.83398986, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49505410000000000800000000000000
+      internalID: 21300628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_315
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1625
+        width: 104
+        height: 99
+      alignment: 9
+      pivot: {x: 0.8229487, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69505410000000000800000000000000
+      internalID: 21300630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_316
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1626
+        width: 63
+        height: 125
+      alignment: 9
+      pivot: {x: 0.3823562, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89505410000000000800000000000000
+      internalID: 21300632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_317
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1626
+        width: 107
+        height: 101
+      alignment: 9
+      pivot: {x: 0.21591727, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9505410000000000800000000000000
+      internalID: 21300634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_325
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1583
+        width: 125
+        height: 39
+      alignment: 9
+      pivot: {x: 0.16826148, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa505410000000000800000000000000
+      internalID: 21300650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_326
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1582
+        width: 122
+        height: 39
+      alignment: 9
+      pivot: {x: 0.1593349, y: 0.03127191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca505410000000000800000000000000
+      internalID: 21300652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_343
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1443
+        width: 51
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec505410000000000800000000000000
+      internalID: 21300686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_344
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1443
+        width: 53
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d505410000000000800000000000000
+      internalID: 21300688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_345
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1443
+        width: 61
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d505410000000000800000000000000
+      internalID: 21300690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_346
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1443
+        width: 64
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d505410000000000800000000000000
+      internalID: 21300692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_347
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1443
+        width: 66
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d505410000000000800000000000000
+      internalID: 21300694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_348
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1443
+        width: 64
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d505410000000000800000000000000
+      internalID: 21300696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_349
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1443
+        width: 60
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad505410000000000800000000000000
+      internalID: 21300698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_350
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1373
+        width: 55
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd505410000000000800000000000000
+      internalID: 21300700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_351
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1373
+        width: 55
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed505410000000000800000000000000
+      internalID: 21300702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_352
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1373
+        width: 55
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e505410000000000800000000000000
+      internalID: 21300704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_353
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1373
+        width: 55
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e505410000000000800000000000000
+      internalID: 21300706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_354
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1373
+        width: 55
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e505410000000000800000000000000
+      internalID: 21300708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_355
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1373
+        width: 54
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e505410000000000800000000000000
+      internalID: 21300710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_356
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1373
+        width: 62
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e505410000000000800000000000000
+      internalID: 21300712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_357
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1373
+        width: 62
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae505410000000000800000000000000
+      internalID: 21300714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_358
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1373
+        width: 58
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce505410000000000800000000000000
+      internalID: 21300716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_359
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1373
+        width: 55
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee505410000000000800000000000000
+      internalID: 21300718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_363
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1373
+        width: 36
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f505410000000000800000000000000
+      internalID: 21300726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_377
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1276
+        width: 9
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21605410000000000800000000000000
+      internalID: 21300754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_379
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1276
+        width: 7
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61605410000000000800000000000000
+      internalID: 21300758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_380
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1276
+        width: 4
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81605410000000000800000000000000
+      internalID: 21300760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_441
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 760
+        width: 139
+        height: 47
+      alignment: 9
+      pivot: {x: 0.17452344, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29605410000000000800000000000000
+      internalID: 21300882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_442
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 760
+        width: 139
+        height: 49
+      alignment: 9
+      pivot: {x: 0.1745228, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49605410000000000800000000000000
+      internalID: 21300884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_444
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 678
+        width: 126
+        height: 56
+      alignment: 9
+      pivot: {x: 0.16338336, y: 0.016230991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89605410000000000800000000000000
+      internalID: 21300888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_445
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 678
+        width: 101
+        height: 79
+      alignment: 9
+      pivot: {x: 0.19704506, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9605410000000000800000000000000
+      internalID: 21300890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_446
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 678
+        width: 80
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5353451, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9605410000000000800000000000000
+      internalID: 21300892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_447
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 678
+        width: 104
+        height: 49
+      alignment: 9
+      pivot: {x: 0.7845057, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9605410000000000800000000000000
+      internalID: 21300894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_448
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 678
+        width: 142
+        height: 46
+      alignment: 9
+      pivot: {x: 0.8456249, y: 0.024148691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a605410000000000800000000000000
+      internalID: 21300896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_449
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 593
+        width: 142
+        height: 46
+      alignment: 9
+      pivot: {x: 0.8470472, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a605410000000000800000000000000
+      internalID: 21300898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_450
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 593
+        width: 127
+        height: 56
+      alignment: 9
+      pivot: {x: 0.8299905, y: 0.018031528}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a605410000000000800000000000000
+      internalID: 21300900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_451
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 593
+        width: 102
+        height: 80
+      alignment: 9
+      pivot: {x: 0.8108754, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a605410000000000800000000000000
+      internalID: 21300902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_452
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 593
+        width: 80
+        height: 74
+      alignment: 9
+      pivot: {x: 0.48106536, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a605410000000000800000000000000
+      internalID: 21300904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_453
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 593
+        width: 104
+        height: 49
+      alignment: 9
+      pivot: {x: 0.22229122, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa605410000000000800000000000000
+      internalID: 21300906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_465
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 509
+        width: 47
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c605410000000000800000000000000
+      internalID: 21300930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_466
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 509
+        width: 64
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c605410000000000800000000000000
+      internalID: 21300932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_467
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 509
+        width: 63
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c605410000000000800000000000000
+      internalID: 21300934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_504
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 175
+        width: 33
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5763328, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01705410000000000800000000000000
+      internalID: 21301008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantDeath7
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 175
+        width: 53
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81705410000000000800000000000000
+      internalID: 21301016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantDeath8
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 175
+        width: 62
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5000005, y: 0.22558261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1705410000000000800000000000000
+      internalID: 21301018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_521
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 66
+        width: 34
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23705410000000000800000000000000
+      internalID: 21301042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_522
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 66
+        width: 31
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43705410000000000800000000000000
+      internalID: 21301044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_523
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 66
+        width: 32
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63705410000000000800000000000000
+      internalID: 21301046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_524
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 66
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83705410000000000800000000000000
+      internalID: 21301048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_525
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 65
+        width: 33
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3705410000000000800000000000000
+      internalID: 21301050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trans1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1710
+        width: 48
+        height: 19
+      alignment: 9
+      pivot: {x: 0.4507599, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trans2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1710
+        width: 60
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5769936, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trans3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1710
+        width: 67
+        height: 43
+      alignment: 9
+      pivot: {x: 0.46472305, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trans4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1710
+        width: 66
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5048833, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trans5
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1771
+        width: 67
+        height: 62
+      alignment: 9
+      pivot: {x: 0.4887759, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trans6
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1770
+        width: 63
+        height: 74
+      alignment: 9
+      pivot: {x: 0.47783163, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trans7
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1770
+        width: 51
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5358115, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trans8
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1771
+        width: 47
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trans9
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1770
+        width: 44
+        height: 78
+      alignment: 9
+      pivot: {x: 0.51709193, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_8
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 3501
+        width: 49
+        height: 71
+      alignment: 9
+      pivot: {x: 0.40211955, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6705410000000000800000000000000
+      internalID: 21301098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant man_9
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 3501
+        width: 42
+        height: 54
+      alignment: 9
+      pivot: {x: 0.46193585, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6705410000000000800000000000000
+      internalID: 21301100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantDeath
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 239
+        width: 39
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6705410000000000800000000000000
+      internalID: 21301102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantDeath2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 239
+        width: 34
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07705410000000000800000000000000
+      internalID: 21301104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantDeath3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 239
+        width: 35
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantDeath4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 239
+        width: 38
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantDeath5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 239
+        width: 40
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantDeath6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 175
+        width: 50
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundSummon2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 3021
+        width: 31
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27705410000000000800000000000000
+      internalID: 21301106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundSummon3
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 3021
+        width: 33
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47705410000000000800000000000000
+      internalID: 21301108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundSummon4
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 3021
+        width: 31
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67705410000000000800000000000000
+      internalID: 21301110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 37
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87705410000000000800000000000000
+      internalID: 21301112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2
+        width: 34
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7705410000000000800000000000000
+      internalID: 21301114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 3
+        width: 34
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7705410000000000800000000000000
+      internalID: 21301116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2
+        width: 32
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7705410000000000800000000000000
+      internalID: 21301118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2
+        width: 31
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08705410000000000800000000000000
+      internalID: 21301120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start6
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2
+        width: 26
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28705410000000000800000000000000
+      internalID: 21301122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start7
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2
+        width: 33
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start8
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2
+        width: 29
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 965
+        width: 49
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48705410000000000800000000000000
+      internalID: 21301124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: start10
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 965
+        width: 49
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68705410000000000800000000000000
+      internalID: 21301126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

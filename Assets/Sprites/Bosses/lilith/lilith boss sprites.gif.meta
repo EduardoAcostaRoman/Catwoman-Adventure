@@ -1,0 +1,3758 @@
+fileFormatVersion: 2
+guid: 4f509c6f981ed86428ffb671ca25c099
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3536094994390889511
+    second: stand1
+  - first:
+      213: -8112511156974350644
+    second: stand2
+  - first:
+      213: 3716491276955915479
+    second: stand3
+  - first:
+      213: 9092167256299171114
+    second: stand4
+  - first:
+      213: -7881640553520013026
+    second: stand5
+  - first:
+      213: 288015425735085488
+    second: stand6
+  - first:
+      213: 4119053666798211891
+    second: stand7
+  - first:
+      213: 8618260596217234218
+    second: stand8
+  - first:
+      213: 133967952080079818
+    second: stand9
+  - first:
+      213: 2320498101388159040
+    second: lilith sprites 2_9
+  - first:
+      213: -4937765537939700033
+    second: lilith sprites 2_10
+  - first:
+      213: 8674991473894269848
+    second: lilith sprites 2_11
+  - first:
+      213: 875806138355279987
+    second: lilith sprites 2_12
+  - first:
+      213: 3060908392866730819
+    second: lilith sprites 2_13
+  - first:
+      213: -2625050327483150540
+    second: lilith sprites 2_14
+  - first:
+      213: 4192641192719153911
+    second: lilith sprites 2_15
+  - first:
+      213: -7431963819565913614
+    second: lilith sprites 2_16
+  - first:
+      213: -7035157649287560711
+    second: lilith sprites 2_17
+  - first:
+      213: 1227490256579687162
+    second: lilith sprites 2_18
+  - first:
+      213: -1664170111300656090
+    second: lilith sprites 2_19
+  - first:
+      213: -3077829395114562229
+    second: fly1
+  - first:
+      213: -8483178977250025642
+    second: fly2
+  - first:
+      213: 8891095473740396698
+    second: fly3
+  - first:
+      213: 4020217830042621365
+    second: fly4
+  - first:
+      213: -5960255703049015632
+    second: fly5
+  - first:
+      213: 3326157898548836978
+    second: fly6
+  - first:
+      213: 1084446713122929125
+    second: fly7
+  - first:
+      213: -3419530078395935591
+    second: lilith sprites 2_27
+  - first:
+      213: -3564626427452092426
+    second: lilith sprites 2_28
+  - first:
+      213: -3551051778881591666
+    second: lilith sprites 2_29
+  - first:
+      213: -2304061754601848457
+    second: lilith sprites 2_30
+  - first:
+      213: -2505945485596931209
+    second: lilith sprites 2_31
+  - first:
+      213: 1462005492443464128
+    second: lilith sprites 2_32
+  - first:
+      213: 1233392876659967233
+    second: grab1
+  - first:
+      213: -6783639832336884596
+    second: grab2
+  - first:
+      213: -3439932713100802150
+    second: grab3
+  - first:
+      213: -7200857977383772769
+    second: grab4
+  - first:
+      213: -926206889560037847
+    second: lilith sprites 2_37
+  - first:
+      213: 1098445517112083383
+    second: lilith sprites 2_38
+  - first:
+      213: -6470224932485817972
+    second: lilith sprites 2_39
+  - first:
+      213: -7500945067925723010
+    second: lilith sprites 2_40
+  - first:
+      213: 113179699795717423
+    second: lilith sprites 2_41
+  - first:
+      213: 526658805886196498
+    second: lilith sprites 2_42
+  - first:
+      213: -6687174358862654955
+    second: lilith sprites 2_43
+  - first:
+      213: 3315262586722332179
+    second: lilith sprites 2_44
+  - first:
+      213: 2906610055321600362
+    second: lilith sprites 2_45
+  - first:
+      213: 5719256590144907191
+    second: lilith sprites 2_46
+  - first:
+      213: 3948693867345753679
+    second: lilith sprites 2_47
+  - first:
+      213: -6208550175390103746
+    second: lilith sprites 2_48
+  - first:
+      213: -6774537198373650735
+    second: lilith sprites 2_49
+  - first:
+      213: 3979842149992990711
+    second: lilith sprites 2_50
+  - first:
+      213: 4286407742772383877
+    second: lilith sprites 2_51
+  - first:
+      213: -5593914028904883554
+    second: lilith sprites 2_52
+  - first:
+      213: -827987540822706263
+    second: lilith sprites 2_53
+  - first:
+      213: 5936138043527768422
+    second: lilith sprites 2_54
+  - first:
+      213: -8979719699384397088
+    second: lilith sprites 2_55
+  - first:
+      213: -7331953406099372061
+    second: lilith sprites 2_56
+  - first:
+      213: 3746949810613282267
+    second: lilith sprites 2_57
+  - first:
+      213: -3834325672314115106
+    second: lilith sprites 2_58
+  - first:
+      213: 6188414545108402853
+    second: lilith sprites 2_59
+  - first:
+      213: 3137691729474198730
+    second: lilith sprites 2_60
+  - first:
+      213: 8222736912828979434
+    second: lilith sprites 2_61
+  - first:
+      213: 4198088561423796392
+    second: lilith sprites 2_62
+  - first:
+      213: 5642520226662700173
+    second: lilith sprites 2_63
+  - first:
+      213: 6246675573104651973
+    second: lilith sprites 2_64
+  - first:
+      213: -2157226332922626480
+    second: lilith sprites 2_65
+  - first:
+      213: -7803401764776314792
+    second: groundKick1
+  - first:
+      213: -396541405899940813
+    second: groundKick2
+  - first:
+      213: -5348145561401669202
+    second: groundKick3
+  - first:
+      213: -5972422963114134538
+    second: groundKick4
+  - first:
+      213: -2362960073215109517
+    second: groundKick5
+  - first:
+      213: 8788493152044565440
+    second: summon1
+  - first:
+      213: 4049126141456542532
+    second: summon2
+  - first:
+      213: 3158483422558937311
+    second: summon3
+  - first:
+      213: -854850107567653098
+    second: summon4
+  - first:
+      213: 4815070724361658997
+    second: summon5
+  - first:
+      213: 6869894040062555563
+    second: summon6
+  - first:
+      213: -3065377064625400002
+    second: summon7
+  - first:
+      213: 8180231219544041228
+    second: summon8
+  - first:
+      213: 2846489651100124439
+    second: summon9
+  - first:
+      213: -198397340061784868
+    second: summon10
+  - first:
+      213: 4563989965081372234
+    second: spin1
+  - first:
+      213: -8784090541051686207
+    second: spin2
+  - first:
+      213: 2991552940243475457
+    second: spin3
+  - first:
+      213: -6276212500106450699
+    second: spin4
+  - first:
+      213: 6071074248413469558
+    second: spin5
+  - first:
+      213: -4453452471018273404
+    second: spin6
+  - first:
+      213: -2502916378603052057
+    second: spin7
+  - first:
+      213: 3402523181445627955
+    second: spin8
+  - first:
+      213: 7513232513125613092
+    second: spin9
+  - first:
+      213: 4334089200118313742
+    second: spin10
+  - first:
+      213: -9195157839262602786
+    second: spin11
+  - first:
+      213: 1320444677489834188
+    second: spin12
+  - first:
+      213: -7110239922498552273
+    second: spin13
+  - first:
+      213: -2137679605346261337
+    second: batFly1
+  - first:
+      213: -5607074733993043687
+    second: batFly2
+  - first:
+      213: -6618915462017624086
+    second: batFly3
+  - first:
+      213: -125759720990415241
+    second: batFly4
+  - first:
+      213: -134993719592393881
+    second: batFly5
+  - first:
+      213: 881425219242305035
+    second: batFly6
+  - first:
+      213: 2844072121766951584
+    second: batFly7
+  - first:
+      213: -6567294546779018373
+    second: batFly8
+  - first:
+      213: -5229590572577763800
+    second: batFly9
+  - first:
+      213: -703350003160858089
+    second: batFly10
+  - first:
+      213: 7515978971403984862
+    second: batFly11
+  - first:
+      213: 3815243238946989422
+    second: batFly12
+  - first:
+      213: -7358437800097749044
+    second: batFly13
+  - first:
+      213: -7868450504654858859
+    second: batFly14
+  - first:
+      213: -5780576512379987412
+    second: batFly15
+  - first:
+      213: -1383865255715412677
+    second: batFly16
+  - first:
+      213: -8931643533685805479
+    second: batFly17
+  - first:
+      213: 4897377679476518978
+    second: batFly18
+  - first:
+      213: -516457457040423307
+    second: batFly19
+  - first:
+      213: 8463498416992902076
+    second: batFly20
+  - first:
+      213: -4041666690280349385
+    second: batFly21
+  - first:
+      213: 5180414481260653370
+    second: batFly22
+  - first:
+      213: 143831041610401901
+    second: batFly23
+  - first:
+      213: -6556757320279370583
+    second: batFly24
+  - first:
+      213: 7597778228207893029
+    second: batFly25
+  - first:
+      213: 8130692307109530009
+    second: batFly26
+  - first:
+      213: 3891512170951179958
+    second: batFly27
+  - first:
+      213: 8786705773696392359
+    second: batFly28
+  - first:
+      213: 2441000457211354778
+    second: batFly29
+  - first:
+      213: 1384411366371252392
+    second: batFly30
+  - first:
+      213: -686760871698932851
+    second: batFly31
+  - first:
+      213: 3747650294858395523
+    second: batFly32
+  - first:
+      213: -6309909146395156761
+    second: batFly33
+  - first:
+      213: -580772871895382582
+    second: batFly34
+  - first:
+      213: 6991518440476046430
+    second: batFly35
+  - first:
+      213: -8370699268764012134
+    second: batFly36
+  - first:
+      213: -6535402312332278721
+    second: batFly37
+  - first:
+      213: -680291632360568662
+    second: batFly38
+  - first:
+      213: -6868914992489459255
+    second: batFly39
+  - first:
+      213: 2512830141678109789
+    second: batFly40
+  - first:
+      213: -2971268008839539824
+    second: batFly41
+  - first:
+      213: 2604588265175690217
+    second: batFly42
+  - first:
+      213: 3739987929665487411
+    second: batFly43
+  - first:
+      213: 7094220080195479631
+    second: batFly44
+  - first:
+      213: -2768015765522426050
+    second: batFly45
+  - first:
+      213: 5033627572814537735
+    second: death1
+  - first:
+      213: -1991639333339116270
+    second: death2
+  - first:
+      213: 7031275542561568204
+    second: death3
+  - first:
+      213: 1903477085078961388
+    second: death4
+  - first:
+      213: -6147516365405495247
+    second: death5
+  - first:
+      213: -4824690044711285047
+    second: death6
+  - first:
+      213: -7837878004246833720
+    second: death7
+  - first:
+      213: -4892026493211236338
+    second: death8
+  - first:
+      213: 6666658601170958513
+    second: death9
+  - first:
+      213: 7182258347019121367
+    second: death10
+  - first:
+      213: 8084193052778622281
+    second: death11
+  - first:
+      213: 1852598944352054594
+    second: death12
+  - first:
+      213: -6995211541455673698
+    second: death13
+  - first:
+      213: 7278929558222764999
+    second: lilith boss sprites_0
+  - first:
+      213: -9005562409036410961
+    second: lilith boss sprites_1
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stand1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 3194
+        width: 53
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5285228, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db4b4f66544deec0800000000000000
+      internalID: -3536094994390889511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 3196
+        width: 51
+        height: 95
+      alignment: 9
+      pivot: {x: 0.54941183, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce862ca5129a6f80800000000000000
+      internalID: -8112511156974350644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 3192
+        width: 49
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5514287, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d49bc52021a39330800000000000000
+      internalID: 3716491276955915479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand4
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 3194
+        width: 47
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5531915, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d662e72fddd2e70800000000000000
+      internalID: 9092167256299171114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand5
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 3193
+        width: 46
+        height: 94
+      alignment: 9
+      pivot: {x: 0.54347825, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e116020eca9ce9290800000000000000
+      internalID: -7881640553520013026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 3194
+        width: 48
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5420831, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdc5c4f08c3ff300800000000000000
+      internalID: 288015425735085488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 3195
+        width: 49
+        height: 94
+      alignment: 9
+      pivot: {x: 0.53061223, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333174c7c71d92930800000000000000
+      internalID: 4119053666798211891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand8
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 3195
+        width: 53
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5098111, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23464bc9563a9770800000000000000
+      internalID: 8618260596217234218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand9
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 3195
+        width: 55
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5094549, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb05038423fbd100800000000000000
+      internalID: 133967952080079818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3083
+        width: 57
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048a53b8ab0143020800000000000000
+      internalID: 2320498101388159040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3083
+        width: 54
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb640f69768897bb0800000000000000
+      internalID: -4937765537939700033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_11
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 3083
+        width: 52
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893a20f88c2c36870800000000000000
+      internalID: 8674991473894269848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_12
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 3085
+        width: 52
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378e5c8ea0d772c00800000000000000
+      internalID: 875806138355279987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 3082
+        width: 55
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34355d647f78a7a20800000000000000
+      internalID: 3060908392866730819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_14
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 3086
+        width: 56
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f08d0a2a2f19bd0800000000000000
+      internalID: -2625050327483150540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_15
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 3080
+        width: 62
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7faf1b283f04f2a30800000000000000
+      internalID: 4192641192719153911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_16
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 3081
+        width: 60
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9e737484c5cd890800000000000000
+      internalID: -7431963819565913614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_17
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 3082
+        width: 58
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1c75f44691e5e90800000000000000
+      internalID: -7035157649287560711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_18
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 3079
+        width: 58
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af27fa482ebe80110800000000000000
+      internalID: 1227490256579687162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_19
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 3079
+        width: 61
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6242a16d91ea7e8e0800000000000000
+      internalID: -1664170111300656090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2975
+        width: 70
+        height: 90
+      alignment: 9
+      pivot: {x: 0.651612, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4de0f0e87a5945d0800000000000000
+      internalID: -3077829395114562229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2970
+        width: 89
+        height: 91
+      alignment: 9
+      pivot: {x: 0.75249696, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f53fe7aa1b54a80800000000000000
+      internalID: -8483178977250025642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly3
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2968
+        width: 90
+        height: 91
+      alignment: 9
+      pivot: {x: 0.7667285, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a983160f934836b70800000000000000
+      internalID: 8891095473740396698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 2965
+        width: 91
+        height: 91
+      alignment: 9
+      pivot: {x: 0.76896214, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5d16ff0deaac730800000000000000
+      internalID: 4020217830042621365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly5
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2968
+        width: 91
+        height: 91
+      alignment: 9
+      pivot: {x: 0.7690057, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be6441540be84da0800000000000000
+      internalID: -5960255703049015632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2969
+        width: 55
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27afcd96cf2e82e20800000000000000
+      internalID: 3326157898548836978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly7
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 2969
+        width: 49
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e938893a8abc0f00800000000000000
+      internalID: 1084446713122929125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_27
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 2970
+        width: 48
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994527ad2836b80d0800000000000000
+      internalID: -3419530078395935591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_28
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 2978
+        width: 78
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff8fb28627e78ec0800000000000000
+      internalID: -3564626427452092426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_29
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2859
+        width: 87
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e866ebca83128bec0800000000000000
+      internalID: -3551051778881591666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_30
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2858
+        width: 88
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771c468aa045600e0800000000000000
+      internalID: -2304061754601848457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_31
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2856
+        width: 89
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b4080abd7193dd0800000000000000
+      internalID: -2505945485596931209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_32
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 2853
+        width: 62
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c143c4df361a4410800000000000000
+      internalID: 1462005492443464128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grab1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2745
+        width: 49
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10580d95944ed1110800000000000000
+      internalID: 1233392876659967233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grab2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2749
+        width: 55
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c9e55838babd1a0800000000000000
+      internalID: -6783639832336884596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grab3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2752
+        width: 61
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9781684c67e240d0800000000000000
+      internalID: -3439932713100802150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grab4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2757
+        width: 63
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d900442d9611c90800000000000000
+      internalID: -7200857977383772769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_37
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2749
+        width: 84
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926214fbdb37523f0800000000000000
+      internalID: -926206889560037847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_38
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2751
+        width: 78
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b30694c0667e3f00800000000000000
+      internalID: 1098445517112083383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_39
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2748
+        width: 83
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c899e4264b42536a0800000000000000
+      internalID: -6470224932485817972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_40
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 2749
+        width: 88
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78a192d33a47e790800000000000000
+      internalID: -7500945067925723010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_41
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2642
+        width: 83
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2deb1a5658129100800000000000000
+      internalID: 113179699795717423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_42
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2640
+        width: 71
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b9da2c4611f4700800000000000000
+      internalID: 526658805886196498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_43
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 2643
+        width: 64
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51214ecc9526233a0800000000000000
+      internalID: -6687174358862654955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_44
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2639
+        width: 73
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e2ab2f1cd220e20800000000000000
+      internalID: 3315262586722332179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_45
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2639
+        width: 56
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61c508027a565820800000000000000
+      internalID: 2906610055321600362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_46
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 2624
+        width: 80
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b726ea1191ee5f40800000000000000
+      internalID: 5719256590144907191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_47
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 2627
+        width: 97
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4638e9b6249cc630800000000000000
+      internalID: 3948693867345753679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_48
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 2620
+        width: 85
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e370fa1828cc6d9a0800000000000000
+      internalID: -6208550175390103746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_49
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 2465
+        width: 90
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1deb445af420cf1a0800000000000000
+      internalID: -6774537198373650735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_50
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2437
+        width: 119
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7857c695d3b3730800000000000000
+      internalID: 3979842149992990711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_51
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 2437
+        width: 134
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5809e66b1216c7b30800000000000000
+      internalID: 4286407742772383877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_52
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2259
+        width: 130
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9adc0b14dc6e52b0800000000000000
+      internalID: -5593914028904883554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_53
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2263
+        width: 91
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a730dee7b56284f0800000000000000
+      internalID: -827987540822706263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_54
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2263
+        width: 71
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669a72e7916616250800000000000000
+      internalID: 5936138043527768422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_55
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2266
+        width: 69
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e29d9f8280a16380800000000000000
+      internalID: -8979719699384397088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_56
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2268
+        width: 118
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e74bb7393baf3a90800000000000000
+      internalID: -7331953406099372061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_57
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 2271
+        width: 136
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd562d42007dff330800000000000000
+      internalID: 3746949810613282267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_58
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2100
+        width: 139
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb6e8cbd1db9cac0800000000000000
+      internalID: -3834325672314115106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_59
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2103
+        width: 140
+        height: 149
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a20c0cbd3aa1e550800000000000000
+      internalID: 6188414545108402853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_60
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 2105
+        width: 140
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc9df5f0025b8b20800000000000000
+      internalID: 3137691729474198730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_61
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2110
+        width: 140
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8d9a208a70d1270800000000000000
+      internalID: 8222736912828979434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_62
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 2112
+        width: 140
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8cb4fdd4b924a30800000000000000
+      internalID: 4198088561423796392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_63
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1936
+        width: 144
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84df2430424e4e40800000000000000
+      internalID: 5642520226662700173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_64
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1937
+        width: 136
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce23026656a0b650800000000000000
+      internalID: 6246675573104651973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lilith sprites 2_65
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1938
+        width: 136
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e3706641eff02e0800000000000000
+      internalID: -2157226332922626480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundKick1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1798
+        width: 94
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858f9da607fb4b390800000000000000
+      internalID: -7803401764776314792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundKick2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1800
+        width: 98
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c999a31b33f7af0800000000000000
+      internalID: -396541405899940813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundKick3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1816
+        width: 107
+        height: 59
+      alignment: 9
+      pivot: {x: 0.50655955, y: -0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9429592f197c5b0800000000000000
+      internalID: -5348145561401669202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundKick4
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1827
+        width: 103
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: -0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3323355f0bd1da0800000000000000
+      internalID: -5972422963114134538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groundKick5
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1794
+        width: 105
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37615993554153fd0800000000000000
+      internalID: -2362960073215109517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summon1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1678
+        width: 53
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3c19655fff6f970800000000000000
+      internalID: 8788493152044565440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summon2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1680
+        width: 36
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44be340c5c2613830800000000000000
+      internalID: 4049126141456542532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summon3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1677
+        width: 41
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0e59e30ff25db20800000000000000
+      internalID: 3158483422558937311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summon4
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1676
+        width: 41
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fb93a3b56f224f0800000000000000
+      internalID: -854850107567653098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summon5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1675
+        width: 41
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572a5fdff4192d240800000000000000
+      internalID: 4815070724361658997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summon6
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1673
+        width: 43
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5708e2b34c65f50800000000000000
+      internalID: 6869894040062555563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summon7
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1672
+        width: 39
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e379f500dc79575d0800000000000000
+      internalID: -3065377064625400002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summon8
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1672
+        width: 41
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07ab7514f4068170800000000000000
+      internalID: 8180231219544041228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summon9
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1673
+        width: 41
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71506ae9143c08720800000000000000
+      internalID: 2846489651100124439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summon10
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1671
+        width: 41
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd42c3d9ba62f3df0800000000000000
+      internalID: -198397340061784868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1553
+        width: 53
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a466f1331bc865f30800000000000000
+      internalID: 4563989965081372234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1555
+        width: 41
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2deb96134a81680800000000000000
+      internalID: -8784090541051686207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1555
+        width: 58
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cdcf99c81248920800000000000000
+      internalID: 2991552940243475457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin4
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1555
+        width: 86
+        height: 86
+      alignment: 9
+      pivot: {x: 0.37880442, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8e944ebf966e8a0800000000000000
+      internalID: -6276212500106450699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin5
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1561
+        width: 100
+        height: 86
+      alignment: 9
+      pivot: {x: 0.39038086, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bd4bdecd9c04450800000000000000
+      internalID: 6071074248413469558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin6
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1548
+        width: 103
+        height: 98
+      alignment: 9
+      pivot: {x: 0.38136068, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485ced0b2982232c0800000000000000
+      internalID: -4453452471018273404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin7
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1543
+        width: 126
+        height: 102
+      alignment: 9
+      pivot: {x: 0.47432792, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3abde80dad34dd0800000000000000
+      internalID: -2502916378603052057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin8
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1544
+        width: 113
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5413478, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33049126ec0383f20800000000000000
+      internalID: 3402523181445627955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1436
+        width: 78
+        height: 102
+      alignment: 9
+      pivot: {x: 0.8064812, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e74c3f92d544860800000000000000
+      internalID: 7513232513125613092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1437
+        width: 126
+        height: 102
+      alignment: 9
+      pivot: {x: 0.4700493, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03b8ed1a27c52c30800000000000000
+      internalID: 4334089200118313742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1435
+        width: 113
+        height: 101
+      alignment: 9
+      pivot: {x: 0.42843655, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9aa19c9ac346080800000000000000
+      internalID: -9195157839262602786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin12
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1436
+        width: 84
+        height: 101
+      alignment: 9
+      pivot: {x: 0.21119036, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8365b2079235210800000000000000
+      internalID: 1320444677489834188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spin13
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1431
+        width: 87
+        height: 100
+      alignment: 9
+      pivot: {x: 0.46901658, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e3caf467a535d90800000000000000
+      internalID: -7110239922498552273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1318
+        width: 53
+        height: 95
+      alignment: 9
+      pivot: {x: 0.528302, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a62dbf89bf6552e0800000000000000
+      internalID: -2137679605346261337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1319
+        width: 58
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5580956, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919d64bac3baf22b0800000000000000
+      internalID: -5607074733993043687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1317
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5678773, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae75910b473e424a0800000000000000
+      internalID: -6618915462017624086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly4
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1316
+        width: 67
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5373893, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77660573336314ef0800000000000000
+      internalID: -125759720990415241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1316
+        width: 65
+        height: 96
+      alignment: 9
+      pivot: {x: 0.52307695, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76369c06de7602ef0800000000000000
+      internalID: -134993719592393881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly6
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1317
+        width: 61
+        height: 96
+      alignment: 9
+      pivot: {x: 0.49147558, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06220121937b3c00800000000000000
+      internalID: 881425219242305035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly7
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1318
+        width: 67
+        height: 96
+      alignment: 9
+      pivot: {x: 0.53731346, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aab285b68c287720800000000000000
+      internalID: 2844072121766951584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly8
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1317
+        width: 65
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5227694, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b60eb97684cd4a0800000000000000
+      internalID: -6567294546779018373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly9
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1318
+        width: 65
+        height: 96
+      alignment: 9
+      pivot: {x: 0.52307695, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e45c0f413cc67b0800000000000000
+      internalID: -5229590572577763800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly10
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1318
+        width: 57
+        height: 96
+      alignment: 9
+      pivot: {x: 0.45578912, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712c3dc06e23d36f0800000000000000
+      internalID: -703350003160858089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly11
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1317
+        width: 55
+        height: 96
+      alignment: 9
+      pivot: {x: 0.43636364, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf17d99d0f1e4860800000000000000
+      internalID: 7515978971403984862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1200
+        width: 53
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4147171, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e656525038772f430800000000000000
+      internalID: 3815243238946989422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly13
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1200
+        width: 59
+        height: 96
+      alignment: 9
+      pivot: {x: 0.47423735, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7ed57bec391e990800000000000000
+      internalID: -7358437800097749044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly14
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1199
+        width: 61
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4918033, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595dd4174f5adc290800000000000000
+      internalID: -7868450504654858859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly15
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1198
+        width: 64
+        height: 96
+      alignment: 9
+      pivot: {x: 0.51531243, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2adf9ee94447cfa0800000000000000
+      internalID: -5780576512379987412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly16
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1197
+        width: 61
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4586882, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35e318c1e58bcce0800000000000000
+      internalID: -1383865255715412677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly17
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1196
+        width: 65
+        height: 96
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e2e3a278d6c0480800000000000000
+      internalID: -8931643533685805479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly18
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1195
+        width: 71
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4504227, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240ff145d0bf6f340800000000000000
+      internalID: 4897377679476518978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly19
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1194
+        width: 82
+        height: 96
+      alignment: 9
+      pivot: {x: 0.51195097, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576018bddac25d8f0800000000000000
+      internalID: -516457457040423307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly20
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1194
+        width: 86
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb51fdf7f2647570800000000000000
+      internalID: 8463498416992902076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly21
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1193
+        width: 87
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5399998, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731af411f8d19e7c0800000000000000
+      internalID: -4041666690280349385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1087
+        width: 87
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4595403, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ba4d0168784e740800000000000000
+      internalID: 5180414481260653370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly23
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1083
+        width: 91
+        height: 96
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68ccdef19dfef100800000000000000
+      internalID: 143831041610401901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly24
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1080
+        width: 99
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4644444, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a45e46d4f7b105a0800000000000000
+      internalID: -6556757320279370583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly25
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1078
+        width: 104
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5094232, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a37863b0bb07960800000000000000
+      internalID: 7597778228207893029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly26
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1075
+        width: 101
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5346535, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999c347339506d070800000000000000
+      internalID: 8130692307109530009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly27
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1074
+        width: 95
+        height: 96
+      alignment: 9
+      pivot: {x: 0.46294716, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be77ac83bd610630800000000000000
+      internalID: 3891512170951179958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly28
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1075
+        width: 95
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5176764, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac1c03e856a0f970800000000000000
+      internalID: 8786705773696392359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly29
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 974
+        width: 99
+        height: 85
+      alignment: 9
+      pivot: {x: 0.51847255, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e16ac9bfc20e120800000000000000
+      internalID: 2441000457211354778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 978
+        width: 104
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5732686, y: -0.4726574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a852938dca663310800000000000000
+      internalID: 1384411366371252392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 976
+        width: 101
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5995873, y: -0.473059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b5fb430a22876f0800000000000000
+      internalID: -686760871698932851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly32
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 982
+        width: 95
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5374226, y: -0.71}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f2c675614520430800000000000000
+      internalID: 3747650294858395523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly33
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 983
+        width: 99
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5355554, y: -0.71}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eed02c0013be68a0800000000000000
+      internalID: -6309909146395156761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly34
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 981
+        width: 104
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5771156, y: -0.71}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac50e7b662ea0f7f0800000000000000
+      internalID: -580772871895382582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly35
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 979
+        width: 101
+        height: 47
+      alignment: 9
+      pivot: {x: 0.6040583, y: -0.675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54fa2d9afcd60160800000000000000
+      internalID: 6991518440476046430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 893
+        width: 98
+        height: 46
+      alignment: 9
+      pivot: {x: 0.55090845, y: -0.71}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91f2bb6d5d45db80800000000000000
+      internalID: -8370699268764012134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly37
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 895
+        width: 100
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5400003, y: -0.71}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f340b2519369d45a0800000000000000
+      internalID: -6535402312332278721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly38
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 896
+        width: 104
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5769234, y: -0.71}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa84a7d5d5e1f86f0800000000000000
+      internalID: -680291632360568662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly39
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 893
+        width: 101
+        height: 47
+      alignment: 9
+      pivot: {x: 0.6041583, y: -0.675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c19f481536bca0a0800000000000000
+      internalID: -6868914992489459255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly40
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 894
+        width: 95
+        height: 46
+      alignment: 9
+      pivot: {x: 0.53708464, y: -0.71}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d544e9743bd5fd220800000000000000
+      internalID: 2512830141678109789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly41
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 892
+        width: 99
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5355558, y: -0.71}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09313a80d7fe3c6d0800000000000000
+      internalID: -2971268008839539824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly42
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 891
+        width: 104
+        height: 46
+      alignment: 9
+      pivot: {x: 0.577115, y: -0.71}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eba2fb3a3b552420800000000000000
+      internalID: 2604588265175690217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly43
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 809
+        width: 101
+        height: 47
+      alignment: 9
+      pivot: {x: 0.6040059, y: -0.675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332c5fbe43b17e330800000000000000
+      internalID: 3739987929665487411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly44
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 809
+        width: 96
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5415255, y: -0.71}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48ae7e739bb37260800000000000000
+      internalID: 7094220080195479631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batFly45
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 807
+        width: 99
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5356784, y: -0.71}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37da5ba3580699d0800000000000000
+      internalID: -2768015765522426050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 689
+        width: 70
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704e831bb990bd540800000000000000
+      internalID: 5033627572814537735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 698
+        width: 71
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d40a714964c54e0800000000000000
+      internalID: -1991639333339116270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 699
+        width: 64
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc536484adb149160800000000000000
+      internalID: 7031275542561568204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death4
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 696
+        width: 54
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec3a36e2528a6a10800000000000000
+      internalID: 1903477085078961388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death5
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 689
+        width: 51
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130ea15cf62afaaa0800000000000000
+      internalID: -6147516365405495247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death6
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 699
+        width: 78
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cece9577f14b0db0800000000000000
+      internalID: -4824690044711285047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death7
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 693
+        width: 86
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c515046b734a3390800000000000000
+      internalID: -7837878004246833720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death8
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 686
+        width: 92
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e082850d2d70c1cb0800000000000000
+      internalID: -4892026493211236338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death9
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 682
+        width: 84
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8f8912daab48c50800000000000000
+      internalID: 6666658601170958513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 598
+        width: 85
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2b823d9e18ca360800000000000000
+      internalID: 7182258347019121367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 601
+        width: 97
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dec86efb2d03070800000000000000
+      internalID: 8084193052778622281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death12
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 605
+        width: 113
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d2e55ace0c5b910800000000000000
+      internalID: 1852598944352054594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death13
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 608
+        width: 118
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9662de4a240cee90800000000000000
+      internalID: -6995211541455673698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

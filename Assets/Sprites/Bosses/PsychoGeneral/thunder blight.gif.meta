@@ -1,0 +1,467 @@
+fileFormatVersion: 2
+guid: 3c47f6fd43e3a544b9a9b3a43f8edd2c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 575781650895248388
+    second: blank
+  - first:
+      213: 7457491574346627270
+    second: thunder blight_1
+  - first:
+      213: -8221373309601008345
+    second: thunder blight_2
+  - first:
+      213: -6892012905166557248
+    second: thunder blight_3
+  - first:
+      213: -3422913518810002462
+    second: thunder blight_4
+  - first:
+      213: 1334717086783841993
+    second: thunder blight_5
+  - first:
+      213: 2083345174219570158
+    second: thunder blight_6
+  - first:
+      213: 8005816194275896832
+    second: thunder blight_7
+  - first:
+      213: 7903545497420298668
+    second: thunder blight_8
+  - first:
+      213: -9169920651075027547
+    second: thunder blight_9
+  - first:
+      213: -3101444916329001029
+    second: thunder blight_10
+  - first:
+      213: -1638478761778341192
+    second: thunder blight_11
+  - first:
+      213: 1553407626445328015
+    second: thunder blight_12
+  - first:
+      213: -7736731791005225536
+    second: thunder blight_13
+  - first:
+      213: 1807252652542959320
+    second: thunder1
+  - first:
+      213: -1659631016008291545
+    second: thunder2
+  - first:
+      213: -5520706661909168303
+    second: thunder3
+  - first:
+      213: -7909529092559963225
+    second: thunder blight_17
+  - first:
+      213: 3448095133864764539
+    second: thunder blight_18
+  - first:
+      213: -4783564783295843597
+    second: thunder blight_19
+  - first:
+      213: -874849162489253510
+    second: thunder blight_20
+  - first:
+      213: -4991942710473478698
+    second: thunder blight_21
+  - first:
+      213: 9122416060907508283
+    second: thunder blight_22
+  - first:
+      213: 4121196187732374855
+    second: thunder blight_23
+  - first:
+      213: 3756801245853336192
+    second: thunder blight_24
+  - first:
+      213: -6373402483425849539
+    second: thunder blight_25
+  - first:
+      213: 4350531413398418866
+    second: thunder blight_26
+  - first:
+      213: 3798413132650806753
+    second: thunder blight_27
+  - first:
+      213: -3122781092732587163
+    second: thunder blight_28
+  - first:
+      213: 5620058818242697515
+    second: thunder blight_29
+  - first:
+      213: 7844830316229185048
+    second: thunder blight_30
+  - first:
+      213: -662895154578272608
+    second: thunder blight_31
+  - first:
+      213: 7816380818234174187
+    second: thunder blight_32
+  - first:
+      213: 8629346948947055458
+    second: thunder blight_33
+  - first:
+      213: 644890995697000588
+    second: thunder blight_34
+  - first:
+      213: 6236147913213633774
+    second: thunder blight_35
+  - first:
+      213: -4246074091618293288
+    second: thunder blight_36
+  - first:
+      213: -6172816556863911630
+    second: thunder blight_37
+  - first:
+      213: 4914800181438117108
+    second: thunder blight_38
+  - first:
+      213: 8155402757559822698
+    second: thunder blight_39
+  - first:
+      213: 6437107929375552416
+    second: thunder blight_40
+  - first:
+      213: 5003594307470848558
+    second: thunder blight_41
+  - first:
+      213: -1362642349866215128
+    second: thunder blight_42
+  - first:
+      213: 8121919596791307766
+    second: thunder blight_43
+  - first:
+      213: 3654799201804631132
+    second: thunder blight_44
+  - first:
+      213: -2873687285990289063
+    second: thunder blight_45
+  - first:
+      213: -7563754380730082641
+    second: thunder blight_46
+  - first:
+      213: -7270492326860923957
+    second: thunder blight_47
+  - first:
+      213: 3390824323068364517
+    second: thunder blight_48
+  - first:
+      213: -5595032700549510447
+    second: thunder blight_49
+  - first:
+      213: -1639991288927454516
+    second: thunder blight_50
+  - first:
+      213: 4679065344927307250
+    second: thunder blight_51
+  - first:
+      213: -3698633239418962423
+    second: thunder blight_52
+  - first:
+      213: 9145567339302869734
+    second: thunder blight_53
+  - first:
+      213: -3434422868094134315
+    second: thunder blight_54
+  - first:
+      213: 1097190458825896925
+    second: thunder blight_55
+  - first:
+      213: -5533026191139141802
+    second: thunder blight_56
+  - first:
+      213: 3075549223072850567
+    second: thunder blight_57
+  - first:
+      213: 5195779399936711025
+    second: thunder blight_58
+  - first:
+      213: 8899798067751540330
+    second: thunder blight_59
+  - first:
+      213: 5880875917312680854
+    second: thunder blight_60
+  - first:
+      213: -1444664455316610407
+    second: thunder blight_61
+  - first:
+      213: 3193706315549543293
+    second: thunder blight_62
+  - first:
+      213: -4895350528197208363
+    second: thunder blight_63
+  - first:
+      213: 4398158060445800137
+    second: thunder blight_64
+  - first:
+      213: -3945413791940292462
+    second: thunder blight_65
+  - first:
+      213: -5692214739526387421
+    second: thunder blight_66
+  - first:
+      213: -5394077643113773266
+    second: thunder blight_67
+  - first:
+      213: -663062719234009849
+    second: thunder blight_68
+  - first:
+      213: -1472734192060067354
+    second: thunder blight_69
+  - first:
+      213: 8267652386673292220
+    second: thunder blight_70
+  - first:
+      213: -4399547885483367435
+    second: thunder blight_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: thunder blight_11
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 243
+        width: 33
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba1e284f34f249e0800000000000000
+      internalID: -1638478761778341192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thunder blight_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 242
+        width: 40
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e08a58100de8510800000000000000
+      internalID: 1553407626445328015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thunder blight_13
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 242
+        width: 35
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd69a25d6b91a490800000000000000
+      internalID: -7736731791005225536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thunder1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 65
+        width: 34
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de943656b6a41910800000000000000
+      internalID: 1807252652542959320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thunder2
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 65
+        width: 40
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bea90526ec7f8e0800000000000000
+      internalID: -1659631016008291545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thunder3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 65
+        width: 40
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f75cb7a828263b0800000000000000
+      internalID: -5520706661909168303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blank
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 420
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c9cc16c569df700800000000000000
+      internalID: 575781650895248388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

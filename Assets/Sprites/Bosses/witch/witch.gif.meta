@@ -1,0 +1,781 @@
+fileFormatVersion: 2
+guid: 6fdf60b08dc87494a8b98622a994adb2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6161070754210539384
+    second: witch_0
+  - first:
+      213: -4793536089062914485
+    second: witch_1
+  - first:
+      213: 1446085396551072795
+    second: witch_2
+  - first:
+      213: -1296917910504774718
+    second: witch_3
+  - first:
+      213: 8150378230139850462
+    second: witch_4
+  - first:
+      213: 4627851057977588833
+    second: witch_5
+  - first:
+      213: 8598073001099940306
+    second: witch_6
+  - first:
+      213: 8190057526632135862
+    second: witch_7
+  - first:
+      213: 4130314569305396639
+    second: witch_8
+  - first:
+      213: -3529584963905640801
+    second: death
+  - first:
+      213: 3802989357508165382
+    second: charge1
+  - first:
+      213: -7124819208492482280
+    second: charge2
+  - first:
+      213: -8754525697562333123
+    second: charge3
+  - first:
+      213: 108631366544865447
+    second: atk1
+  - first:
+      213: -2277848822555775021
+    second: atk2
+  - first:
+      213: -4009502831136379589
+    second: atk3
+  - first:
+      213: 4333942755676591174
+    second: witch_16
+  - first:
+      213: 9037893645626413846
+    second: witch_17
+  - first:
+      213: 5394006930923550585
+    second: witch_18
+  - first:
+      213: 5909509537993385102
+    second: atk2_1
+  - first:
+      213: 8680742438629614359
+    second: atk2_2
+  - first:
+      213: 2619045481994046765
+    second: atk2_3
+  - first:
+      213: 5973183398801502870
+    second: atk2_4
+  - first:
+      213: 7649493352041872302
+    second: atk3_1
+  - first:
+      213: 3282034538311618481
+    second: atk3_2
+  - first:
+      213: 1181840253384739446
+    second: atk3_4
+  - first:
+      213: 623159315357892458
+    second: atk3_5
+  - first:
+      213: 4387639172768932576
+    second: atk3_6
+  - first:
+      213: 8315166276967517835
+    second: witch_28
+  - first:
+      213: -2501562416943565112
+    second: witch_29
+  - first:
+      213: -788772743589692656
+    second: witch_30
+  - first:
+      213: 7179506169828439025
+    second: witch_31
+  - first:
+      213: -809094576931814430
+    second: witch_32
+  - first:
+      213: 4632711080258544019
+    second: witch_33
+  - first:
+      213: 2890237966499610179
+    second: witch_34
+  - first:
+      213: 4582629008657694726
+    second: blank
+  - first:
+      213: -4745661564383428151
+    second: transform
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: witch_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 829
+        width: 47
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1fb715587c0634e81ea4f6baa8c92e
+      internalID: -6161070754210539384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 829
+        width: 47
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4900ae89776b24f96c4edb4b22b464
+      internalID: -4793536089062914485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 830
+        width: 47
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bff989dc63f614fa6d8482e75e51f4
+      internalID: 1446085396551072795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 830
+        width: 47
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b6e939d60184342965e3a9af1425b8
+      internalID: -1296917910504774718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 719
+        width: 47
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb822e59793d749419db5901b7f74323
+      internalID: 8150378230139850462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 719
+        width: 47
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dada555798e21c4db70258dfb00b3bc
+      internalID: 4627851057977588833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 719
+        width: 47
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ddc15dfa30ee64d977d96e772775de
+      internalID: 8598073001099940306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_7
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 719
+        width: 47
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b506a0357fae7e144a0a47095d206476
+      internalID: 8190057526632135862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 614
+        width: 53
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6338e77403473f542941ff60ad2d9dbf
+      internalID: 4130314569305396639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: death
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 542
+        width: 59
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51213962637590f439fe870a33af0ca8
+      internalID: -3529584963905640801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 442
+        width: 41
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04f4fa877210b140a3274f672a9afb9
+      internalID: 3802989357508165382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 442
+        width: 42
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec42a41cee70eed44a72bb0b1acbd2e3
+      internalID: -7124819208492482280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 442
+        width: 45
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87558680e0661c148833700127ff0c58
+      internalID: -8754525697562333123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atk1
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 439
+        width: 67
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aab275abbcb11140afa9d84e17354b8
+      internalID: 108631366544865447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atk2
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 440
+        width: 65
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c7a6fd90d776642988dbc82244779f
+      internalID: -2277848822555775021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atk3
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 440
+        width: 65
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ce4135d4f33e5488537e3ceaec79d6
+      internalID: -4009502831136379589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atk2_1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 334
+        width: 43
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfde31db4775ae34d9d2b97125304fff
+      internalID: 5909509537993385102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atk2_2
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 334
+        width: 42
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db9ff2542b84514f982ee8f1488be50
+      internalID: 8680742438629614359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atk2_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 334
+        width: 43
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058bbe279b575e646b49eaf456aa156f
+      internalID: 2619045481994046765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atk2_4
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 334
+        width: 45
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a98e13a8aaf5b4ebfb49bfb06f5f8c
+      internalID: 5973183398801502870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atk3_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 223
+        width: 51
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd22777b31fd3ea4895515063dc89e8b
+      internalID: 7649493352041872302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atk3_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 223
+        width: 57
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436a32a46d29232428bc9eb5ea114442
+      internalID: 3282034538311618481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atk3_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 224
+        width: 61
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fe51d4a93c40f42af6d144e65ad377
+      internalID: 1181840253384739446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atk3_5
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 224
+        width: 59
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5084746, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8683a6b5d91755142acd664b020f059c
+      internalID: 623159315357892458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atk3_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 224
+        width: 61
+        height: 99
+      alignment: 9
+      pivot: {x: 0.52459013, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94853e0df60425f4c8f5c485e94b5c98
+      internalID: 4387639172768932576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blank
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 627
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f0d005e85a8944da8c079468fd50fc
+      internalID: 4582629008657694726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transform
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 335
+        width: 41
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39a44ba96853714496fefe28199df78
+      internalID: -4745661564383428151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: aa47ebf1f1b6f2249ad1dd54b71d754b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1151 @@
+fileFormatVersion: 2
+guid: 1ec50e35a05b7614b9130d06d21656ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -49429166514714898
+    second: pose_miss1
+  - first:
+      213: 1508387616858008679
+    second: pose_miss2
+  - first:
+      213: -1328003194403061911
+    second: pose_miss3
+  - first:
+      213: -7573124388691664877
+    second: cellphone4
+  - first:
+      213: 8131743480666536566
+    second: cellphone5
+  - first:
+      213: 5412378382901025565
+    second: cellphone6
+  - first:
+      213: 8260026735852714190
+    second: cellphone7
+  - first:
+      213: 2364523791411812411
+    second: cellphone8
+  - first:
+      213: -2946591623248439264
+    second: cellphone9
+  - first:
+      213: 2572500239363752911
+    second: cellphone10
+  - first:
+      213: -6698693209203762623
+    second: lucyDance3
+  - first:
+      213: 3211637976011736237
+    second: lucyDance4
+  - first:
+      213: -5764736132065244655
+    second: lucyDance1
+  - first:
+      213: -4176319694495162043
+    second: lucyDance2
+  - first:
+      213: 574050034061885034
+    second: lucyTied2
+  - first:
+      213: -5157646340217367276
+    second: lucyTied1
+  - first:
+      213: 5491528630572323479
+    second: arikaTied2
+  - first:
+      213: 788091046726416111
+    second: arikaTied1
+  - first:
+      213: 1331858641263600564
+    second: miaTied1
+  - first:
+      213: 5502524794237491053
+    second: miaTied2
+  - first:
+      213: 7851224601873981147
+    second: kat missing sprites_20
+  - first:
+      213: -2282102393807760037
+    second: kat missing sprites_21
+  - first:
+      213: -218138266218645704
+    second: kat missing sprites_22
+  - first:
+      213: 2708448979628897237
+    second: kat missing sprites_23
+  - first:
+      213: -4535680787069597969
+    second: kat missing sprites_24
+  - first:
+      213: -7614920468803315328
+    second: kat missing sprites_25
+  - first:
+      213: -6687276875919856354
+    second: kat missing sprites_26
+  - first:
+      213: -1619673755640694081
+    second: kat missing sprites_27
+  - first:
+      213: 6474136395404494864
+    second: kat missing sprites_28
+  - first:
+      213: -2362159955512872797
+    second: kat missing sprites_29
+  - first:
+      213: 2720576908230409421
+    second: kat missing sprites_30
+  - first:
+      213: 2006201629492331422
+    second: kat missing sprites_31
+  - first:
+      213: -121699865442572430
+    second: kat missing sprites_32
+  - first:
+      213: -2117999919751721706
+    second: kat missing sprites_33
+  - first:
+      213: -6433473321215414202
+    second: kat missing sprites_34
+  - first:
+      213: -3851916908406048861
+    second: kat missing sprites_35
+  - first:
+      213: -808807325569029076
+    second: kat missing sprites_36
+  - first:
+      213: 8974529974024946369
+    second: kat missing sprites_37
+  - first:
+      213: -117670990382118874
+    second: kat missing sprites_38
+  - first:
+      213: -2517462228347986338
+    second: kat missing sprites_39
+  - first:
+      213: -8221746912220014332
+    second: kat missing sprites_40
+  - first:
+      213: -3266205957112069386
+    second: kat missing sprites_41
+  - first:
+      213: 8307602337748272277
+    second: kat missing sprites_42
+  - first:
+      213: -3529148199334063186
+    second: kat missing sprites_43
+  - first:
+      213: 8099708092438905712
+    second: kat missing sprites_44
+  - first:
+      213: 1784829732793299347
+    second: kat missing sprites_45
+  - first:
+      213: 190856951270617585
+    second: kat missing sprites_46
+  - first:
+      213: -3864718487634246870
+    second: kat missing sprites_47
+  - first:
+      213: -4714335049144033393
+    second: kat missing sprites_48
+  - first:
+      213: -2367195538522819093
+    second: kat missing sprites_49
+  - first:
+      213: 8938538189687318186
+    second: kat missing sprites_50
+  - first:
+      213: 5596214880877839252
+    second: kat missing sprites_51
+  - first:
+      213: -1288349023010542614
+    second: kat missing sprites_52
+  - first:
+      213: 1966251492055136848
+    second: kat missing sprites_53
+  - first:
+      213: -7622279693624133297
+    second: kat missing sprites_54
+  - first:
+      213: 7742227152954357543
+    second: kat missing sprites_55
+  - first:
+      213: 8605423315528587303
+    second: kat missing sprites_56
+  - first:
+      213: -963925904233526578
+    second: kat missing sprites_57
+  - first:
+      213: 3387277054557195442
+    second: kat missing sprites_58
+  - first:
+      213: -7118924206527611159
+    second: kat missing sprites_59
+  - first:
+      213: -6562519066904801669
+    second: kat missing sprites_60
+  - first:
+      213: -1306741900271927443
+    second: kat missing sprites_61
+  - first:
+      213: 3474236633762200910
+    second: kat missing sprites_62
+  - first:
+      213: -5034698092309052129
+    second: kat missing sprites_63
+  - first:
+      213: -4703657390577506878
+    second: kat missing sprites_64
+  - first:
+      213: -7616117203232668860
+    second: kat missing sprites_65
+  - first:
+      213: 2050718974032259975
+    second: kat missing sprites_66
+  - first:
+      213: -7416062359845928335
+    second: kat missing sprites_67
+  - first:
+      213: 466618557294904109
+    second: kat missing sprites_68
+  - first:
+      213: 1242212717637199000
+    second: kat missing sprites_69
+  - first:
+      213: 6648657213257173654
+    second: kat missing sprites_70
+  - first:
+      213: -4649206429490484619
+    second: kat missing sprites_71
+  - first:
+      213: -6407020329701639804
+    second: kat missing sprites_72
+  - first:
+      213: -8777994990645876026
+    second: kat missing sprites_73
+  - first:
+      213: -3207896686805297183
+    second: kat missing sprites_74
+  - first:
+      213: -1718404666476758823
+    second: kat missing sprites_75
+  - first:
+      213: 7220189944398641740
+    second: kat missing sprites_76
+  - first:
+      213: 6273147321526836082
+    second: kat missing sprites_77
+  - first:
+      213: 6301313177863667150
+    second: kat missing sprites_78
+  - first:
+      213: 2287743663545160211
+    second: kat missing sprites_79
+  - first:
+      213: -1325638367388448126
+    second: kat missing sprites_80
+  - first:
+      213: 8770058858076904765
+    second: kat missing sprites_81
+  - first:
+      213: 5574234538856048852
+    second: kat missing sprites_82
+  - first:
+      213: 6863522370722977848
+    second: kat missing sprites_83
+  - first:
+      213: -7884023212140117563
+    second: kat missing sprites_84
+  - first:
+      213: -1863288623026998090
+    second: kat missing sprites_85
+  - first:
+      213: 3721447695115063784
+    second: kat missing sprites_86
+  - first:
+      213: 4402560648665607789
+    second: kat missing sprites_87
+  - first:
+      213: 2784850854792576251
+    second: kat missing sprites_88
+  - first:
+      213: 1227950362482807552
+    second: kat missing sprites_89
+  - first:
+      213: 8443462037111761707
+    second: kat missing sprites_90
+  - first:
+      213: 24467727201719620
+    second: kat missing sprites_91
+  - first:
+      213: 4795289605573320290
+    second: kat missing sprites_92
+  - first:
+      213: -7224155593760402809
+    second: kat missing sprites_93
+  - first:
+      213: -5921328096240959219
+    second: kat missing sprites_94
+  - first:
+      213: -2530659657985020513
+    second: kat missing sprites_95
+  - first:
+      213: 2689981976425886793
+    second: kat missing sprites_96
+  - first:
+      213: 4124312883052121361
+    second: kat missing sprites_97
+  - first:
+      213: -2609386311860524068
+    second: kat missing sprites_98
+  - first:
+      213: -5456493296755456319
+    second: kat missing sprites_99
+  - first:
+      213: 5875634872792052305
+    second: kat missing sprites_100
+  - first:
+      213: 835455733435021485
+    second: kat missing sprites_101
+  - first:
+      213: -1047441151661630259
+    second: kat missing sprites_102
+  - first:
+      213: 5827919527739315750
+    second: kat missing sprites_103
+  - first:
+      213: -1696095778015470385
+    second: kat missing sprites_104
+  - first:
+      213: -6822420849720644911
+    second: kat missing sprites_105
+  - first:
+      213: -4585402574499089025
+    second: kat missing sprites_106
+  - first:
+      213: -3953244343485077546
+    second: kat missing sprites_107
+  - first:
+      213: 4595266082620546775
+    second: kat missing sprites_108
+  - first:
+      213: -7519927648854743703
+    second: kat missing sprites_109
+  - first:
+      213: 70679418775521745
+    second: kat missing sprites_110
+  - first:
+      213: -3474440506662018873
+    second: kat missing sprites_111
+  - first:
+      213: 7717593795514564652
+    second: kat missing sprites_112
+  - first:
+      213: 211129071188527598
+    second: kat missing sprites_113
+  - first:
+      213: 5921836905081207198
+    second: kat missing sprites_114
+  - first:
+      213: -3541031971568431091
+    second: kat missing sprites_115
+  - first:
+      213: -4593370392550748838
+    second: kat missing sprites_116
+  - first:
+      213: -5383388857189949633
+    second: kat missing sprites_117
+  - first:
+      213: 1690565287360062773
+    second: kat missing sprites_118
+  - first:
+      213: -7125122465691964001
+    second: kat missing sprites_119
+  - first:
+      213: -8161510393443183076
+    second: kat missing sprites_120
+  - first:
+      213: -7142857962966150290
+    second: kat missing sprites_121
+  - first:
+      213: 3120787350293412169
+    second: kat missing sprites_122
+  - first:
+      213: -6233434714935670478
+    second: kat missing sprites_123
+  - first:
+      213: 3850602742154497614
+    second: kat missing sprites_124
+  - first:
+      213: 6256354572665740807
+    second: kat missing sprites_125
+  - first:
+      213: -4833370077187485500
+    second: kat missing sprites_126
+  - first:
+      213: -4410732387506135441
+    second: kat missing sprites_127
+  - first:
+      213: -3208909764420630628
+    second: kat missing sprites_128
+  - first:
+      213: -2348350840203400220
+    second: kat missing sprites_129
+  - first:
+      213: 6954959949176873632
+    second: kat missing sprites_130
+  - first:
+      213: 8965174377240829520
+    second: kat missing sprites_131
+  - first:
+      213: 7648591247458361168
+    second: kat missing sprites_132
+  - first:
+      213: -199948643364913054
+    second: kat missing sprites_133
+  - first:
+      213: -2567829450639083641
+    second: kat missing sprites_134
+  - first:
+      213: 5525213729292755728
+    second: kat missing sprites_135
+  - first:
+      213: 8033958867905928675
+    second: kat missing sprites_136
+  - first:
+      213: -3864032100461318236
+    second: kat missing sprites_137
+  - first:
+      213: 4795591017499650530
+    second: kat missing sprites_138
+  - first:
+      213: -3801320119085870881
+    second: kat missing sprites_139
+  - first:
+      213: -3962427465296388124
+    second: kat missing sprites_140
+  - first:
+      213: 2998541311025301007
+    second: kat missing sprites_141
+  - first:
+      213: -1974951859515606145
+    second: kat missing sprites_142
+  - first:
+      213: 7615568255656288843
+    second: kat missing sprites_143
+  - first:
+      213: -2391042914747506688
+    second: kat missing sprites_144
+  - first:
+      213: 4597920860922071768
+    second: kat missing sprites_145
+  - first:
+      213: -2851840011779896085
+    second: kat missing sprites_146
+  - first:
+      213: 3903587090756677098
+    second: kat missing sprites_147
+  - first:
+      213: -8443953498684239555
+    second: kat missing sprites_148
+  - first:
+      213: -6064917272245392809
+    second: kat missing sprites_149
+  - first:
+      213: -5053027066375579522
+    second: kat missing sprites_150
+  - first:
+      213: -5417300906183254731
+    second: kat missing sprites_151
+  - first:
+      213: -3574150786578508770
+    second: kat missing sprites_152
+  - first:
+      213: -5386558861129556320
+    second: kat missing sprites_153
+  - first:
+      213: -5592969375570419180
+    second: kat missing sprites_154
+  - first:
+      213: -8331922243949372136
+    second: kat missing sprites_155
+  - first:
+      213: 2340262096963282218
+    second: kat missing sprites_156
+  - first:
+      213: 146456599663375424
+    second: kat missing sprites_157
+  - first:
+      213: 8485584330593784471
+    second: kat missing sprites_158
+  - first:
+      213: 4710954817000374170
+    second: kat missing sprites_159
+  - first:
+      213: 5283311236603697523
+    second: kat missing sprites_160
+  - first:
+      213: 3700327961878550625
+    second: kat missing sprites_161
+  - first:
+      213: 8799481201391315656
+    second: kat missing sprites_162
+  - first:
+      213: -5089527955127448522
+    second: kat missing sprites_163
+  - first:
+      213: 1327653298506603588
+    second: kat missing sprites_164
+  - first:
+      213: 3136806979138082955
+    second: kat missing sprites_165
+  - first:
+      213: -2736905574382767140
+    second: kat missing sprites_166
+  - first:
+      213: 9095977568866901506
+    second: kat missing sprites_167
+  - first:
+      213: -677552460663493305
+    second: kat missing sprites_168
+  - first:
+      213: -524487891757891879
+    second: kat missing sprites_169
+  - first:
+      213: 3049851234927423545
+    second: kat missing sprites_170
+  - first:
+      213: 729196239298701871
+    second: kat missing sprites_171
+  - first:
+      213: 5816059925569554361
+    second: kat missing sprites_172
+  - first:
+      213: 7768175213035183787
+    second: kat missing sprites_173
+  - first:
+      213: -5543992775104354196
+    second: kat missing sprites_174
+  - first:
+      213: 5931214194207186453
+    second: kat missing sprites_175
+  - first:
+      213: -3452972267205876636
+    second: kat missing sprites_176
+  - first:
+      213: -6261672435571325704
+    second: kat missing sprites_177
+  - first:
+      213: -8254764723477673770
+    second: kat missing sprites_178
+  - first:
+      213: 3452870954881968450
+    second: kat missing sprites_179
+  - first:
+      213: 5210706966024000268
+    second: kat missing sprites_180
+  - first:
+      213: -2388111640353288631
+    second: kat missing sprites_181
+  - first:
+      213: -5208226070416604925
+    second: kat missing sprites_182
+  - first:
+      213: 4987939014822908949
+    second: kat missing sprites_183
+  - first:
+      213: -7326387727708936175
+    second: kat missing sprites_184
+  - first:
+      213: -7526049881756407013
+    second: cellphone1
+  - first:
+      213: 7600629216225085866
+    second: cellphone2
+  - first:
+      213: -5323537308059541695
+    second: cellphone3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pose_miss1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1417
+        width: 28
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6c8585f64605ff0800000000000000
+      internalID: -49429166514714898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pose_miss2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1417
+        width: 26
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c6b66bb8edee410800000000000000
+      internalID: 1508387616858008679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pose_miss3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1417
+        width: 26
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f7509712cf19de0800000000000000
+      internalID: -1328003194403061911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cellphone1
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1308
+        width: 37
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1be90cd1891e8790800000000000000
+      internalID: -7526049881756407013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cellphone2
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1307
+        width: 37
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa94d86900cda7960800000000000000
+      internalID: 7600629216225085866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cellphone3
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1308
+        width: 34
+        height: 87
+      alignment: 9
+      pivot: {x: 0.48646995, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f529c060ffe16b0800000000000000
+      internalID: -5323537308059541695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cellphone4
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1309
+        width: 45
+        height: 87
+      alignment: 9
+      pivot: {x: 0.36799994, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310af2c1e7bd6e690800000000000000
+      internalID: -7573124388691664877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cellphone5
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1310
+        width: 41
+        height: 87
+      alignment: 9
+      pivot: {x: 0.40439066, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a3ab1ac91c9d070800000000000000
+      internalID: 8131743480666536566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cellphone6
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1310
+        width: 41
+        height: 87
+      alignment: 9
+      pivot: {x: 0.4034141, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b91d69671ac1b40800000000000000
+      internalID: 5412378382901025565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cellphone7
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1313
+        width: 41
+        height: 87
+      alignment: 9
+      pivot: {x: 0.4029273, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8fab18d8281a270800000000000000
+      internalID: 8260026735852714190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cellphone8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1313
+        width: 41
+        height: 87
+      alignment: 9
+      pivot: {x: 0.402439, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b389f0a4cd970d020800000000000000
+      internalID: 2364523791411812411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cellphone9
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1313
+        width: 41
+        height: 86
+      alignment: 9
+      pivot: {x: 0.402439, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0289226c78a9b17d0800000000000000
+      internalID: -2946591623248439264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cellphone10
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1314
+        width: 41
+        height: 87
+      alignment: 9
+      pivot: {x: 0.402439, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc342e7865b53b320800000000000000
+      internalID: 2572500239363752911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucyDance3
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1028
+        width: 41
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a961674067903a0800000000000000
+      internalID: -6698693209203762623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucyDance4
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1032
+        width: 42
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4855329b7029c20800000000000000
+      internalID: 3211637976011736237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucyDance1
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1028
+        width: 47
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a4460e70b8fffa0800000000000000
+      internalID: -5764736132065244655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucyDance2
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1032
+        width: 49
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541e52d6d5bba06c0800000000000000
+      internalID: -4176319694495162043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucyTied2
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1045
+        width: 39
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e3f8be67f67f700800000000000000
+      internalID: 574050034061885034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lucyTied1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1022
+        width: 62
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415104edafb5c68b0800000000000000
+      internalID: -5157646340217367276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arikaTied2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 922
+        width: 67
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7929623b134d53c40800000000000000
+      internalID: 5491528630572323479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arikaTied1
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 900
+        width: 57
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe63bcaa1acdfea00800000000000000
+      internalID: 788091046726416111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miaTied1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 758
+        width: 63
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b32d83b066bb7210800000000000000
+      internalID: 1331858641263600564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: miaTied2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 789
+        width: 57
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d671e409525ec5c40800000000000000
+      internalID: 5502524794237491053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
